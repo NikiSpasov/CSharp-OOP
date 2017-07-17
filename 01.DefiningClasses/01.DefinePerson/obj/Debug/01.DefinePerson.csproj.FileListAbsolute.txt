@@ -1,0 +1,5 @@
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\01.DefinePerson\bin\Debug\01.DefinePerson.exe.config
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\01.DefinePerson\bin\Debug\01.DefinePerson.exe
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\01.DefinePerson\bin\Debug\01.DefinePerson.pdb
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\01.DefinePerson\obj\Debug\01.DefinePerson.exe
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\01.DefinePerson\obj\Debug\01.DefinePerson.pdb

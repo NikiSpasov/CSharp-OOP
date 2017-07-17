@@ -1,0 +1,6 @@
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\03.TestClient\bin\Debug\03.TestClient.exe.config
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\03.TestClient\obj\Debug\03.TestClient.csprojResolveAssemblyReference.cache
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\03.TestClient\bin\Debug\03.TestClient.exe
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\03.TestClient\bin\Debug\03.TestClient.pdb
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\03.TestClient\obj\Debug\03.TestClient.exe
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\03.TestClient\obj\Debug\03.TestClient.pdb

@@ -1,0 +1,6 @@
+C:\Users\Niki\iCloudDrive\C# OOP\02.Encapsulation\forInheritance-Lab\bin\Debug\forInheritance-Lab.exe.config
+C:\Users\Niki\iCloudDrive\C# OOP\02.Encapsulation\forInheritance-Lab\bin\Debug\forInheritance-Lab.exe
+C:\Users\Niki\iCloudDrive\C# OOP\02.Encapsulation\forInheritance-Lab\bin\Debug\forInheritance-Lab.pdb
+C:\Users\Niki\iCloudDrive\C# OOP\02.Encapsulation\forInheritance-Lab\obj\Debug\forInheritance-Lab.csprojResolveAssemblyReference.cache
+C:\Users\Niki\iCloudDrive\C# OOP\02.Encapsulation\forInheritance-Lab\obj\Debug\forInheritance-Lab.exe
+C:\Users\Niki\iCloudDrive\C# OOP\02.Encapsulation\forInheritance-Lab\obj\Debug\forInheritance-Lab.pdb

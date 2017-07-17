@@ -1,0 +1,10 @@
+C:\Users\Nik\iCloudDrive\C# OOP\01.DefiningClasses\10.CarSalesman\bin\Debug\10.CarSalesman.exe.config
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\10.CarSalesman\bin\Debug\_10.CarSalesman.exe.config
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\10.CarSalesman\bin\Debug\_10.CarSalesman.exe
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\10.CarSalesman\bin\Debug\_10.CarSalesman.pdb
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\10.CarSalesman\obj\Debug\10.CarSalesman.csprojResolveAssemblyReference.cache
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\10.CarSalesman\obj\Debug\_10.CarSalesman.exe
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\10.CarSalesman\obj\Debug\_10.CarSalesman.pdb
+C:\Users\Nik\iCloudDrive\C# OOP\01.DefiningClasses\10.CarSalesman\bin\Debug\_10.CarSalesman.exe.config
+C:\Users\Nik\iCloudDrive\C# OOP\01.DefiningClasses\10.CarSalesman\obj\Debug\_10.CarSalesman.exe
+C:\Users\Nik\iCloudDrive\C# OOP\01.DefiningClasses\10.CarSalesman\obj\Debug\_10.CarSalesman.pdb

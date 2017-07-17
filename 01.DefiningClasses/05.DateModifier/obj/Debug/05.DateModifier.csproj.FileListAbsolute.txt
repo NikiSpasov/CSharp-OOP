@@ -1,0 +1,6 @@
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\05.DateModifier\bin\Debug\05.DateModifier.exe.config
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\05.DateModifier\bin\Debug\05.DateModifier.exe
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\05.DateModifier\bin\Debug\05.DateModifier.pdb
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\05.DateModifier\obj\Debug\05.DateModifier.csprojResolveAssemblyReference.cache
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\05.DateModifier\obj\Debug\05.DateModifier.exe
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\05.DateModifier\obj\Debug\05.DateModifier.pdb

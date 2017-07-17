@@ -1,0 +1,6 @@
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\07.SpeedRacing\bin\Debug\07.SpeedRacing.exe.config
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\07.SpeedRacing\bin\Debug\07.SpeedRacing.exe
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\07.SpeedRacing\bin\Debug\07.SpeedRacing.pdb
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\07.SpeedRacing\obj\Debug\07.SpeedRacing.csprojResolveAssemblyReference.cache
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\07.SpeedRacing\obj\Debug\07.SpeedRacing.exe
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\07.SpeedRacing\obj\Debug\07.SpeedRacing.pdb

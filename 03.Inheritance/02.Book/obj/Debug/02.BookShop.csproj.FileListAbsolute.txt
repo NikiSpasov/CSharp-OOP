@@ -1,0 +1,9 @@
+C:\Users\Nik\iCloudDrive\C# OOP\03.Inheritance\02.Book\bin\Debug\02.Book.exe.config
+C:\Users\Nik\iCloudDrive\C# OOP\03.Inheritance\02.Book\bin\Debug\02.Book.exe
+C:\Users\Nik\iCloudDrive\C# OOP\03.Inheritance\02.Book\bin\Debug\02.Book.pdb
+C:\Users\Nik\iCloudDrive\C# OOP\03.Inheritance\02.Book\obj\Debug\02.BookShop.csprojResolveAssemblyReference.cache
+C:\Users\Nik\iCloudDrive\C# OOP\03.Inheritance\02.Book\obj\Debug\02.Book.exe
+C:\Users\Nik\iCloudDrive\C# OOP\03.Inheritance\02.Book\obj\Debug\02.Book.pdb
+C:\Users\Niki\iCloudDrive\C# OOP\03.Inheritance\02.Book\bin\Debug\02.Book.exe.config
+C:\Users\Niki\iCloudDrive\C# OOP\03.Inheritance\02.Book\obj\Debug\02.Book.exe
+C:\Users\Niki\iCloudDrive\C# OOP\03.Inheritance\02.Book\obj\Debug\02.Book.pdb

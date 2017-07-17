@@ -1,0 +1,6 @@
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\04.PersonClass\bin\Debug\04.PersonClass.exe.config
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\04.PersonClass\bin\Debug\04.PersonClass.exe
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\04.PersonClass\bin\Debug\04.PersonClass.pdb
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\04.PersonClass\obj\Debug\04.PersonClass.csprojResolveAssemblyReference.cache
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\04.PersonClass\obj\Debug\04.PersonClass.exe
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\04.PersonClass\obj\Debug\04.PersonClass.pdb

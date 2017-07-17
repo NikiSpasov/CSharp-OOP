@@ -1,0 +1,7 @@
+C:\Users\Nik\iCloudDrive\C# OOP\03.Inheritance\04.OnlineRadioDatabase\bin\Debug\04.OnlineRadioDatabase.exe.config
+C:\Users\Niki\iCloudDrive\C# OOP\03.Inheritance\04.OnlineRadioDatabase\bin\Debug\04.OnlineRadioDatabase.exe.config
+C:\Users\Niki\iCloudDrive\C# OOP\03.Inheritance\04.OnlineRadioDatabase\bin\Debug\04.OnlineRadioDatabase.exe
+C:\Users\Niki\iCloudDrive\C# OOP\03.Inheritance\04.OnlineRadioDatabase\bin\Debug\04.OnlineRadioDatabase.pdb
+C:\Users\Niki\iCloudDrive\C# OOP\03.Inheritance\04.OnlineRadioDatabase\obj\Debug\04.OnlineRadioDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Niki\iCloudDrive\C# OOP\03.Inheritance\04.OnlineRadioDatabase\obj\Debug\04.OnlineRadioDatabase.exe
+C:\Users\Niki\iCloudDrive\C# OOP\03.Inheritance\04.OnlineRadioDatabase\obj\Debug\04.OnlineRadioDatabase.pdb

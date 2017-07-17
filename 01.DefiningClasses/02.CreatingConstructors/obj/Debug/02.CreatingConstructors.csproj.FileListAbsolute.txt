@@ -1,0 +1,6 @@
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\02.CreatingConstructors\bin\Debug\02.CreatingConstructors.exe.config
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\02.CreatingConstructors\bin\Debug\02.CreatingConstructors.exe
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\02.CreatingConstructors\bin\Debug\02.CreatingConstructors.pdb
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\02.CreatingConstructors\obj\Debug\02.CreatingConstructors.csprojResolveAssemblyReference.cache
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\02.CreatingConstructors\obj\Debug\02.CreatingConstructors.exe
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\02.CreatingConstructors\obj\Debug\02.CreatingConstructors.pdb

@@ -1,0 +1,6 @@
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\06.CompanyRoster\bin\Debug\06.CompanyRoster.exe.config
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\06.CompanyRoster\bin\Debug\06.CompanyRoster.exe
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\06.CompanyRoster\bin\Debug\06.CompanyRoster.pdb
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\06.CompanyRoster\obj\Debug\06.CompanyRoster.csprojResolveAssemblyReference.cache
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\06.CompanyRoster\obj\Debug\06.CompanyRoster.exe
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\06.CompanyRoster\obj\Debug\06.CompanyRoster.pdb

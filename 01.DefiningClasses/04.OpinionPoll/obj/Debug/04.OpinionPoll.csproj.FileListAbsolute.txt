@@ -1,0 +1,5 @@
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\04.OpinionPoll\bin\Debug\04.OpinionPoll.exe.config
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\04.OpinionPoll\bin\Debug\04.OpinionPoll.exe
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\04.OpinionPoll\bin\Debug\04.OpinionPoll.pdb
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\04.OpinionPoll\obj\Debug\04.OpinionPoll.exe
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\04.OpinionPoll\obj\Debug\04.OpinionPoll.pdb

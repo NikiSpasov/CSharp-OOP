@@ -1,0 +1,6 @@
+C:\Users\Nik\iCloudDrive\C# OOP\03.Inheritance\03.Mankind\bin\Debug\03.Mankind.exe.config
+C:\Users\Nik\iCloudDrive\C# OOP\03.Inheritance\03.Mankind\bin\Debug\03.Mankind.exe
+C:\Users\Nik\iCloudDrive\C# OOP\03.Inheritance\03.Mankind\bin\Debug\03.Mankind.pdb
+C:\Users\Nik\iCloudDrive\C# OOP\03.Inheritance\03.Mankind\obj\Debug\03.Mankind.csprojResolveAssemblyReference.cache
+C:\Users\Nik\iCloudDrive\C# OOP\03.Inheritance\03.Mankind\obj\Debug\03.Mankind.exe
+C:\Users\Nik\iCloudDrive\C# OOP\03.Inheritance\03.Mankind\obj\Debug\03.Mankind.pdb

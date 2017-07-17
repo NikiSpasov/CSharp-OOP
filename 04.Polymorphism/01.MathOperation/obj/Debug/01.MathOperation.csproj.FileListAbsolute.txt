@@ -1,0 +1,6 @@
+C:\Users\Niki\iCloudDrive\C# OOP\04.Polymorphism\01.MathOperation\bin\Debug\01.MathOperation.exe.config
+C:\Users\Niki\iCloudDrive\C# OOP\04.Polymorphism\01.MathOperation\bin\Debug\01.MathOperation.exe
+C:\Users\Niki\iCloudDrive\C# OOP\04.Polymorphism\01.MathOperation\bin\Debug\01.MathOperation.pdb
+C:\Users\Niki\iCloudDrive\C# OOP\04.Polymorphism\01.MathOperation\obj\Debug\01.MathOperation.csprojResolveAssemblyReference.cache
+C:\Users\Niki\iCloudDrive\C# OOP\04.Polymorphism\01.MathOperation\obj\Debug\01.MathOperation.exe
+C:\Users\Niki\iCloudDrive\C# OOP\04.Polymorphism\01.MathOperation\obj\Debug\01.MathOperation.pdb

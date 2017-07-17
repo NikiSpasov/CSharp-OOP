@@ -1,0 +1,6 @@
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\01.DefineBankAccountClass\bin\Debug\01.DefineBankAccountClass.exe.config
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\01.DefineBankAccountClass\bin\Debug\01.DefineBankAccountClass.exe
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\01.DefineBankAccountClass\bin\Debug\01.DefineBankAccountClass.pdb
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\01.DefineBankAccountClass\obj\Debug\01.DefineBankAccountClass.csprojResolveAssemblyReference.cache
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\01.DefineBankAccountClass\obj\Debug\01.DefineBankAccountClass.exe
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\01.DefineBankAccountClass\obj\Debug\01.DefineBankAccountClass.pdb

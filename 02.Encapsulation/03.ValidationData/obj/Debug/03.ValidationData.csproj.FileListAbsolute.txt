@@ -1,0 +1,5 @@
+C:\Users\Nik\iCloudDrive\C# OOP\02.Encapsulation\03.ValidationData\bin\Debug\03.ValidationData.exe.config
+C:\Users\Nik\iCloudDrive\C# OOP\02.Encapsulation\03.ValidationData\bin\Debug\03.ValidationData.exe
+C:\Users\Nik\iCloudDrive\C# OOP\02.Encapsulation\03.ValidationData\bin\Debug\03.ValidationData.pdb
+C:\Users\Nik\iCloudDrive\C# OOP\02.Encapsulation\03.ValidationData\obj\Debug\03.ValidationData.exe
+C:\Users\Nik\iCloudDrive\C# OOP\02.Encapsulation\03.ValidationData\obj\Debug\03.ValidationData.pdb

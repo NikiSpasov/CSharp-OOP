@@ -1,0 +1,12 @@
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\08.RawData\bin\Debug\08.RawData.exe.config
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\08.RawData\bin\Debug\08.RawData.exe
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\08.RawData\bin\Debug\08.RawData.pdb
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\08.RawData\obj\Debug\08.RawData.csprojResolveAssemblyReference.cache
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\08.RawData\obj\Debug\08.RawData.exe
+C:\Users\Niki\iCloudDrive\C# OOP\01.DefiningClasses\08.RawData\obj\Debug\08.RawData.pdb
+C:\Users\Nik\iCloudDrive\C# OOP\01.DefiningClasses\08.RawData\bin\Debug\08.RawData.exe.config
+C:\Users\Nik\iCloudDrive\C# OOP\01.DefiningClasses\08.RawData\obj\Debug\08.RawData.exe
+C:\Users\Nik\iCloudDrive\C# OOP\01.DefiningClasses\08.RawData\obj\Debug\08.RawData.pdb
+C:\Users\Nik\iCloudDrive\C# OOP\01.DefiningClasses\08.RawData\bin\Debug\08.RawData.exe
+C:\Users\Nik\iCloudDrive\C# OOP\01.DefiningClasses\08.RawData\bin\Debug\08.RawData.pdb
+C:\Users\Nik\iCloudDrive\C# OOP\01.DefiningClasses\08.RawData\obj\Debug\08.RawData.csprojResolveAssemblyReference.cache

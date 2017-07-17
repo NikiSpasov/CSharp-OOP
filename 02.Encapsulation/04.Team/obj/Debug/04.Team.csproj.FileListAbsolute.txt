@@ -1,0 +1,6 @@
+C:\Users\Nik\iCloudDrive\C# OOP\02.Encapsulation\04.Team\bin\Debug\04.Team.exe.config
+C:\Users\Nik\iCloudDrive\C# OOP\02.Encapsulation\04.Team\bin\Debug\04.Team.exe
+C:\Users\Nik\iCloudDrive\C# OOP\02.Encapsulation\04.Team\bin\Debug\04.Team.pdb
+C:\Users\Nik\iCloudDrive\C# OOP\02.Encapsulation\04.Team\obj\Debug\04.Team.csprojResolveAssemblyReference.cache
+C:\Users\Nik\iCloudDrive\C# OOP\02.Encapsulation\04.Team\obj\Debug\04.Team.exe
+C:\Users\Nik\iCloudDrive\C# OOP\02.Encapsulation\04.Team\obj\Debug\04.Team.pdb

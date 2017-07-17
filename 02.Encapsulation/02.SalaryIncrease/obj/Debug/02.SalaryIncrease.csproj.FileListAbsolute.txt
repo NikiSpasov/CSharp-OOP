@@ -1,0 +1,6 @@
+C:\Users\Nik\iCloudDrive\C# OOP\02.Encapsulation\02.SalaryIncrease\bin\Debug\02.SalaryIncrease.exe.config
+C:\Users\Nik\iCloudDrive\C# OOP\02.Encapsulation\02.SalaryIncrease\bin\Debug\02.SalaryIncrease.exe
+C:\Users\Nik\iCloudDrive\C# OOP\02.Encapsulation\02.SalaryIncrease\bin\Debug\02.SalaryIncrease.pdb
+C:\Users\Nik\iCloudDrive\C# OOP\02.Encapsulation\02.SalaryIncrease\obj\Debug\02.SalaryIncrease.csprojResolveAssemblyReference.cache
+C:\Users\Nik\iCloudDrive\C# OOP\02.Encapsulation\02.SalaryIncrease\obj\Debug\02.SalaryIncrease.exe
+C:\Users\Nik\iCloudDrive\C# OOP\02.Encapsulation\02.SalaryIncrease\obj\Debug\02.SalaryIncrease.pdb
