@@ -27,9 +27,9 @@ public abstract class Harvester
         {
             if (value < 0)
             {
-                Console.WriteLine(
-                "Harvester is not registered, because of it's OreOutput");
-                return;
+                throw new ArgumentException(
+                $"Harvester is not registered, because of it's {nameof(OreOutput)}");
+                
             }
             this.oreOutput = value;
 
@@ -43,9 +43,9 @@ public abstract class Harvester
         {
             if (value < 0 || value > 20000)
             {
-                Console.WriteLine(
-                "Harvester is not registered, because of it's EnergyRequirement");
-                return;
+                throw new ArgumentException(
+                $"Harvester is not registered, because of it's {nameof(EnergyRequirement)}");
+                
             }
             this.energyRequirement = value;
         }

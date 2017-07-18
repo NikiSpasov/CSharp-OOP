@@ -17,6 +17,9 @@ public class Engine
         }
 
         interpreter.InterpreteCommand(input);
+
+        DraftManager mm = new DraftManager();
+        
     }
 }
 

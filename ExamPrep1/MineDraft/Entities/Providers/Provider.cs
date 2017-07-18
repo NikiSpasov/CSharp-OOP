@@ -22,9 +22,8 @@ public abstract class Provider
                 
                if (value < 1 || value > 9999)
                 {
-                    Console.WriteLine(
-                    "Provider is not registered, because of it's EnergyOutput");
-                    return;
+                    throw new ArgumentException(
+                    $"Provider is not registered, because of it's {nameof(EnergyOutput)}");
                 }
             if (!error)
             {

@@ -123,13 +123,11 @@ public class DraftManager
 
     public string Mode(List<string> arguments)
     {
-        /*        if (this.mode != arguments[0])
-                {*/
+
         this.mode = arguments[0];
 
         return $"Successfully changed working mode to {arguments[0]} Mode";  // to check if changing to the same value would require message
-                                                                             /*        }
-                                                                                     return "";*/
+                                                                             /*        }                                                                             return "";*/
     }
 
     public string Check(List<string> arguments)

@@ -6,3 +6,6 @@ C:\Users\Niki\iCloudDrive\C# OOP\ExamPrep1\MineCraft\obj\Debug\MineCraft.pdb
 C:\Users\Niki\iCloudDrive\C# OOP\ExamPrep1\MineDraft\bin\Debug\MineCraft.exe.config
 C:\Users\Niki\iCloudDrive\C# OOP\ExamPrep1\MineDraft\obj\Debug\MineCraft.exe
 C:\Users\Niki\iCloudDrive\C# OOP\ExamPrep1\MineDraft\obj\Debug\MineCraft.pdb
+C:\Users\Niki\iCloudDrive\C# OOP\ExamPrep1\MineDraft\bin\Debug\MineCraft.exe
+C:\Users\Niki\iCloudDrive\C# OOP\ExamPrep1\MineDraft\bin\Debug\MineCraft.pdb
+C:\Users\Niki\iCloudDrive\C# OOP\ExamPrep1\MineDraft\obj\Debug\MineDraft.csprojResolveAssemblyReference.cache

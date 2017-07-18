@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeedForSpeed", "NeedForSpee
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NFS", "NFS\NFS.csproj", "{D60EE9DB-5A21-4D0C-88BF-F3F045D32224}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MineDraft", "MineCraft\MineDraft.csproj", "{A32B27EA-37D3-4351-9B5B-B9053B0EF149}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MineDraft", "MineDraft\MineDraft.csproj", "{A32B27EA-37D3-4351-9B5B-B9053B0EF149}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
