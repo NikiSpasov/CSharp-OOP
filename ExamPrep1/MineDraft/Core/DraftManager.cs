@@ -79,56 +79,60 @@ public class DraftManager
 
         if (this.harvesters.Count == 0)
         {
+
             energyProvidedThisDay = providers.Sum(p => p.Value.EnergyOutput);
             oreMinedThisDay = 0;
-
             this.totalEnergyStored += energyProvidedThisDay;
+            
         }
-        switch (currentMode)
+        else
         {
-            case "Full":
+            switch (currentMode)
+            {
+                case "Full":
 
-                totalEnergyRequirement = harvesters.Sum(h => h.Value.EnergyRequirement);
-                energyProvidedThisDay = providers.Sum(h => h.Value.EnergyOutput);
+                    totalEnergyRequirement = harvesters.Sum(h => h.Value.EnergyRequirement);
+                    energyProvidedThisDay = providers.Sum(h => h.Value.EnergyOutput);
 
-                if (energyProvidedThisDay + this.totalEnergyStored >= totalEnergyRequirement)
-                {
-                    oreMinedThisDay = harvesters.Sum(h => h.Value.OreOutput);
+                    if (energyProvidedThisDay + this.totalEnergyStored >= totalEnergyRequirement)
+                    {
+                        oreMinedThisDay = harvesters.Sum(h => h.Value.OreOutput);
 
-                    this.totalEnergyStored += energyProvidedThisDay - totalEnergyRequirement;
-                    this.totalMinedOre += oreMinedThisDay;
-                }
-                else
-                {
-                    this.totalEnergyStored += energyProvidedThisDay;
-                }
+                        this.totalEnergyStored += energyProvidedThisDay - totalEnergyRequirement;
+                        this.totalMinedOre += oreMinedThisDay;
+                    }
+                    else
+                    {
+                        this.totalEnergyStored += energyProvidedThisDay;
+                    }
 
-                break;
+                    break;
 
-            case "Half":
+                case "Half":
 
-                energyProvidedThisDay = providers.Sum(p => p.Value.EnergyOutput);
-                totalEnergyRequirement = harvesters.Sum(h => h.Value.EnergyRequirement * 60 / 100);
+                    energyProvidedThisDay = providers.Sum(p => p.Value.EnergyOutput);
+                    totalEnergyRequirement = harvesters.Sum(h => h.Value.EnergyRequirement * 60 / 100);
 
-                if (energyProvidedThisDay + this.totalEnergyStored >= totalEnergyRequirement)
-                {
-                    oreMinedThisDay = harvesters.Sum(h => h.Value.OreOutput * 50 / 100);
+                    if (energyProvidedThisDay + this.totalEnergyStored >= totalEnergyRequirement)
+                    {
+                        oreMinedThisDay = harvesters.Sum(h => h.Value.OreOutput * 50 / 100);
 
-                    this.totalEnergyStored += energyProvidedThisDay - totalEnergyRequirement;
-                    this.totalMinedOre += oreMinedThisDay;
-                }
-                else
-                {
-                    this.totalEnergyStored += energyProvidedThisDay;
-                }
-                break;
+                        this.totalEnergyStored += energyProvidedThisDay - totalEnergyRequirement;
+                        this.totalMinedOre += oreMinedThisDay;
+                    }
+                    else
+                    {
+                        this.totalEnergyStored += energyProvidedThisDay;
+                    }
+                    break;
 
-            default:
-                energyProvidedThisDay = providers.Sum(p => p.Value.EnergyOutput); 
-                totalEnergyStored += energyProvidedThisDay;
-                break;
+                default:
+                    energyProvidedThisDay = providers.Sum(p => p.Value.EnergyOutput);
+                    totalEnergyStored += energyProvidedThisDay;
+                    break;
+            }
         }
-
+       
         return $"A day has passed." +
                $"{Environment.NewLine}Energy Provided: {energyProvidedThisDay}" +
                $"{Environment.NewLine}Plumbus Ore Mined: {oreMinedThisDay}";
