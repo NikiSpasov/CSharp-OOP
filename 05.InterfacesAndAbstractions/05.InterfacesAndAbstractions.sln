@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Shapes", "Shapes\01.Shapes.csproj", "{5DFEF185-E0A1-4169-AFEE-01123B8E3E70}"
 EndProject
@@ -14,6 +14,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.Ferrari", "2.Ferrari\3.Ferrari.csproj", "{08B6D9A9-0405-463B-80D1-02375F18CD3F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Telephony", "4.Telephony\4.Telephony.csproj", "{98FE6F0C-00D0-4C92-AA48-CAA3B62C2246}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.BorderControl", "5.BorderControl\5.BorderControl.csproj", "{8A737B2A-99E8-4BBA-8309-62EA4E053788}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{98FE6F0C-00D0-4C92-AA48-CAA3B62C2246}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98FE6F0C-00D0-4C92-AA48-CAA3B62C2246}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98FE6F0C-00D0-4C92-AA48-CAA3B62C2246}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A737B2A-99E8-4BBA-8309-62EA4E053788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A737B2A-99E8-4BBA-8309-62EA4E053788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A737B2A-99E8-4BBA-8309-62EA4E053788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A737B2A-99E8-4BBA-8309-62EA4E053788}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
