@@ -1,7 +1,6 @@
-﻿
-class StartUp
+﻿public class StartUp
 {
-    static void Main()
+    public static void Main()
     {
         Engine engine = new Engine();
         engine.Run();

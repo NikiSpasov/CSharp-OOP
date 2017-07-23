@@ -1,14 +1,15 @@
 ﻿using System;
 
-public class Robot : IPeople
+public class Robot : ICreature
 {
     private string id;
     private string model;
 
-    public Robot(string model, string id)
+    public Robot(string type, string model, string id)
     {
         Id = id;
         Model = model;
+        Type = type;
     }
 
     public string Id
@@ -16,6 +17,8 @@ public class Robot : IPeople
         get => id;
         private set { this.id = value; }
     }
+
+    public string Type { get; }
 
     public string Model
     {
