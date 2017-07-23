@@ -1,10 +1,8 @@
-﻿using System.Text;
-
-public class Private : Soldier, IPrivate
+﻿public class Private : Soldier, IPrivate
 {
     public double Salary { get; }
 
-    public Private(int id, string firstName, string lastName, double salary) :
+    public Private(string firstName, string lastName, int id, double salary) :
         base (firstName, lastName, id)
     {
         Salary = salary;
@@ -12,9 +10,7 @@ public class Private : Soldier, IPrivate
 
     public override string ToString()
     {
-        StringBuilder sb = new StringBuilder(base.ToString());
-        sb.AppendLine($" Salary: {Salary:F2}");
-        return sb.ToString().Trim();
+        return base.ToString() + $"Salary {Salary:F2}";
     }
 }
 
