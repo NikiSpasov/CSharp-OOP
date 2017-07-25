@@ -2,6 +2,6 @@
 
 public interface ICallable
 {
-    void Call(string[] numbers);
+    void Calling(List<string> number);
 }
 

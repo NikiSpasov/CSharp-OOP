@@ -2,6 +2,6 @@
 
 public interface IBrowseable
 {
-    void Browse(string[] sites);
+    void Browsing(List<string> site);
 }
 
