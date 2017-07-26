@@ -1,10 +1,9 @@
-﻿using System;
-using System.ComponentModel;
-
-public class Tuple<T>
+﻿public class Tuple<T, Y>
 {
     private T item1;
-    private T item2;
+    private Y item2;
+
+
 
     public T Item1
     {
@@ -12,21 +11,16 @@ public class Tuple<T>
         set { this.item1 = value; }
     }
 
-    public T Item2
+    public Y Item2
     {
-        get => item2;
+        get => this.item2;
         set { this.item2 = value; }
     }
 
-    public Tuple(T item1, T item2)
+    public Tuple (T item1, Y item2)
     {
         Item1 = item1;
         Item2 = item2;
-    }
-
-    public void Write()
-    {
-        Console.WriteLine($"{Item1} -> {Item2}");
     }
 }
 

@@ -23,6 +23,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.GenericSwapMethodInteger"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.GenericCountMethodString", "5.GenericCountMethodString\5.GenericCountMethodString.csproj", "{F06C0371-314F-47AE-B3D6-512BA1B68020}"
 EndProject
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.GenericCountMethodDouble", "6.GenericCountMethodDouble\6.GenericCountMethodDouble.csproj", "{AD6EE73A-D08A-4401-8B2A-B54126391BF7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.CustomList", "7.CustomList\7.CustomList.csproj", "{5A3A7400-D99C-412B-B6EF-20D486CAAD05}"
@@ -30,6 +31,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.CustomListSorter + 9", "08.CustomListSorter\8.CustomListSorter + 9.csproj", "{D9C56E42-4505-4345-BA8F-01E86BEDB034}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.Tuple", "9.Tuple\10.Tuple.csproj", "{EBF300AE-11BD-4C2E-824C-3937E2901D88}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.Tuple", "9.Tuple\9.Tuple.csproj", "{43CF9B1A-959F-4B8C-9986-5059DF663E66}"
+>>>>>>> 375de3bcb81e707954eae40cd9f2b3d058cb01a1
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -77,6 +81,7 @@ Global
 		{F06C0371-314F-47AE-B3D6-512BA1B68020}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F06C0371-314F-47AE-B3D6-512BA1B68020}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F06C0371-314F-47AE-B3D6-512BA1B68020}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 		{AD6EE73A-D08A-4401-8B2A-B54126391BF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AD6EE73A-D08A-4401-8B2A-B54126391BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD6EE73A-D08A-4401-8B2A-B54126391BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -93,6 +98,12 @@ Global
 		{EBF300AE-11BD-4C2E-824C-3937E2901D88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBF300AE-11BD-4C2E-824C-3937E2901D88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBF300AE-11BD-4C2E-824C-3937E2901D88}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{43CF9B1A-959F-4B8C-9986-5059DF663E66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43CF9B1A-959F-4B8C-9986-5059DF663E66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43CF9B1A-959F-4B8C-9986-5059DF663E66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43CF9B1A-959F-4B8C-9986-5059DF663E66}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> 375de3bcb81e707954eae40cd9f2b3d058cb01a1
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
