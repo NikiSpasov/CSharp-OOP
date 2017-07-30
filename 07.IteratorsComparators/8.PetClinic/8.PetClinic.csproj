@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="Clinic.cs" />
     <Compile Include="CommandInterpretet.cs" />
+    <Compile Include="Engine.cs" />
     <Compile Include="Pet.cs" />
     <Compile Include="Room.cs" />
     <Compile Include="Startup.cs" />

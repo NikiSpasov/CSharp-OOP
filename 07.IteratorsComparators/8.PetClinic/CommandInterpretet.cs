@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+
 public class CommandInterpretet
 {
     /*
@@ -7,28 +10,56 @@ public class CommandInterpretet
      * room in a clinic or printing information about all rooms in a clinic.
      */
 
-    public void Interpret(string[] cmdArgs)
+    public void Interpret()
     {
-        switch (cmdArgs[0])
+        List<string> cmdArgs = Console.ReadLine()
+            .Split(' ')
+            .ToList();
+
+        string command = cmdArgs[0];
+        cmdArgs.RemoveAt(0);
+
+        switch (command)
         {
-            case "":
-                CreatePet();
+            case "Create":
+                if (cmdArgs[0] == "Pet")
+                {
+                    cmdArgs.RemoveAt(0);
+                    Pet.CreatePet(cmdArgs);
+                }
+                else if (cmdArgs[0] == "Clinic")
+                {
+                    cmdArgs.RemoveAt(0);
+                    Clinic.CreateClinic(cmdArgs);
+                }
                 break;
-            case "":
-                CreateClinic();
+
+            case "Add":
+                string addResult = Clinic.AddPetToClinic(cmdArgs[0], cmdArgs[1]).ToString();
+                Console.WriteLine(addResult.ToLower());
                 break;
-            case "":
-                AddPetToClinic();
+
+            case "Release":
+                string result = Clinic.ReleasePetFromClinic(cmdArgs[0]).ToString();
+                Console.WriteLine(result.ToLower());
                 break;
-            case "":
-                ReleasePetFromClinic();
+
+            case "HasEmptyRooms":
+                string resultFrom = Clinic.HasEmptyRooms(cmdArgs[0]).ToString();
+                Console.WriteLine(resultFrom.ToLower());
                 break;
-            case "":
-                PrintRoom();
+
+            case "Print":
+                if (cmdArgs.Count == 1)
+                {
+                    Clinic.PrintEveryRoomInClinic(cmdArgs[0]);
+                }
+                else
+                {
+                    Clinic.PrintClinicRoom(cmdArgs[0], int.Parse(cmdArgs[1]));
+                }
                 break;
-            case "":
-                PrintAllRooms();
-                break;
+
             default:
                 Console.WriteLine("No such a command!");
                 return;
