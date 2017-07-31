@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace IterratorsComparators
 {
-    public class BooksCollection : IEnumerable<Book> //foreach returns typet between <>
+    public class BooksCollection : IEnumerable<Book> //foreach returns type between <>
     {
         private readonly List<Book> books;
 
@@ -27,41 +27,42 @@ namespace IterratorsComparators
         {
             return this.books.GetEnumerator();
         }
-
-    }
-
-    //HERE, nested class for custom foreach is FINE - it has a tipical structure:
-    class BooksEnumerator : IEnumerator<Book>
-    {
-        private readonly List<Book> books;
-
-        private int currentIndex = -2;
-
-        public BooksEnumerator(List<Book> books)
+        //HERE, nested class for custom foreach is FINE - it has a tipical structure:
+        private class BooksEnumerator : IEnumerator<Book>
         {
-            this.books = books;
-        }
+            private readonly List<Book> books;
 
-        public Book Current => this.books[this.currentIndex];
+            private int currentIndex = -2;
 
-        object IEnumerator.Current => this.Current;
-
-        public void Dispose()
-        {
-        }
-
-        public bool MoveNext()
-        {
-
-            this.currentIndex+=2;
-            if (this.currentIndex >= this.books.Count)
+            public BooksEnumerator(List<Book> books)
             {
-                return false;
+                this.books = books;
             }
-            return true;
 
+            public Book Current => this.books[this.currentIndex];
+
+            object IEnumerator.Current => this.Current;
+
+            public void Dispose()
+            {
+            }
+
+            public bool MoveNext()
+            {
+
+                this.currentIndex += 2;
+                if (this.currentIndex >= this.books.Count)
+                {
+                    return false;
+                }
+                return true;
+
+            }
+            public void Reset() => this.currentIndex = -2;
         }
-    public void Reset() => this.currentIndex = -2;
+
     }
+
+    
 
 }
