@@ -1,16 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace _8.CardGame
+public class StartUp
 {
-    public class StartUp
+    public static void Main()
     {
-        static void Main()
-        {
-
-        }
+        CardGame cardGame = new CardGame();
+        cardGame.StartGame();
     }
 }
+

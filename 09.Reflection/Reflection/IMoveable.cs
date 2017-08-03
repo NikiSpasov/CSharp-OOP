@@ -1,0 +1,9 @@
+﻿
+
+namespace Reflection
+{
+    interface IMoveabale
+    {
+
+    }
+}

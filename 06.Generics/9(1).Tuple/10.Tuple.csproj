@@ -7,7 +7,7 @@
     <ProjectGuid>{EBF300AE-11BD-4C2E-824C-3937E2901D88}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_9.Tuple</RootNamespace>
-    <AssemblyName>_9.Tuple</AssemblyName>
+    <AssemblyName>9.Tuple</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,8 +42,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="StartUp.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tuple.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

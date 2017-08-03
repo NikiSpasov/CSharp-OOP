@@ -1,17 +1,24 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Threading;
 
 public class Card : IComparable<Card>
 {
     public Rank Rank;
     public Suit Suit;
     public int CardPower;
+ 
 
     public Card(string card, string suit)
     {
-        if (Enum.TryParse(card, true, out Rank) && Enum.TryParse(suit, true, out Suit))
+        if (Enum.TryParse(card, false, out Rank) && Enum.TryParse(suit, false, out Suit))
         {
             CardPower = GetPower();
-        }              
+        }
+        else
+        {
+            throw new ArgumentException("No such card exists.");
+        }
     }
 
     public int GetPower()
