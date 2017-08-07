@@ -1,0 +1,6 @@
+D:\GitRepo\07.IteratorsComparators\1.ListyIterator\bin\Debug\1.ListyIterator.exe.config
+D:\GitRepo\07.IteratorsComparators\1.ListyIterator\bin\Debug\1.ListyIterator.exe
+D:\GitRepo\07.IteratorsComparators\1.ListyIterator\bin\Debug\1.ListyIterator.pdb
+D:\GitRepo\07.IteratorsComparators\1.ListyIterator\obj\Debug\1.ListyIterator.exe
+D:\GitRepo\07.IteratorsComparators\1.ListyIterator\obj\Debug\1.ListyIterator.pdb
+D:\GitRepo\07.IteratorsComparators\1.ListyIterator\obj\Debug\1.ListyIterator.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\02.ArrayCreator\bin\Debug\02.ArrayCreator.exe.config
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\02.ArrayCreator\bin\Debug\02.ArrayCreator.exe
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\02.ArrayCreator\bin\Debug\02.ArrayCreator.pdb
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\02.ArrayCreator\obj\Debug\02.ArrayCreator.csprojResolveAssemblyReference.cache
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\02.ArrayCreator\obj\Debug\02.ArrayCreator.exe
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\02.ArrayCreator\obj\Debug\02.ArrayCreator.pdb

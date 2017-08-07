@@ -1,0 +1,5 @@
+D:\GitRepo\08.EnumAndAttributes\7.DeckOfCards\bin\Debug\7.DeckOfCards.exe.config
+D:\GitRepo\08.EnumAndAttributes\7.DeckOfCards\bin\Debug\7.DeckOfCards.exe
+D:\GitRepo\08.EnumAndAttributes\7.DeckOfCards\bin\Debug\7.DeckOfCards.pdb
+D:\GitRepo\08.EnumAndAttributes\7.DeckOfCards\obj\Debug\7.DeckOfCards.exe
+D:\GitRepo\08.EnumAndAttributes\7.DeckOfCards\obj\Debug\7.DeckOfCards.pdb

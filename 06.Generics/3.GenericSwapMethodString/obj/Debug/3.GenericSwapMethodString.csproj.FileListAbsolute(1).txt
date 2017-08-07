@@ -1,0 +1,9 @@
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\3.GenericSwapMethodString\bin\Debug\3.GenericSwapMethodString.exe.config
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\3.GenericSwapMethodString\bin\Debug\3.GenericSwapMethodString.exe
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\3.GenericSwapMethodString\bin\Debug\3.GenericSwapMethodString.pdb
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\3.GenericSwapMethodString\bin\Debug\BoxOfT.exe
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\3.GenericSwapMethodString\bin\Debug\BoxOfT.pdb
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\3.GenericSwapMethodString\bin\Debug\BoxOfT.exe.config
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\3.GenericSwapMethodString\obj\Debug\3.GenericSwapMethodString.csprojResolveAssemblyReference.cache
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\3.GenericSwapMethodString\obj\Debug\3.GenericSwapMethodString.exe
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\3.GenericSwapMethodString\obj\Debug\3.GenericSwapMethodString.pdb

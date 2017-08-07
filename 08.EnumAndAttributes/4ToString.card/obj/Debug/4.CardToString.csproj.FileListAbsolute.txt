@@ -1,0 +1,6 @@
+D:\GitRepo\08.EnumAndAttributes\4.CardToString\bin\Debug\4.CardToString.exe.config
+D:\GitRepo\08.EnumAndAttributes\4.CardToString\bin\Debug\4.CardToString.exe
+D:\GitRepo\08.EnumAndAttributes\4.CardToString\bin\Debug\4.CardToString.pdb
+D:\GitRepo\08.EnumAndAttributes\4.CardToString\obj\Debug\4.CardToString.csprojResolveAssemblyReference.cache
+D:\GitRepo\08.EnumAndAttributes\4.CardToString\obj\Debug\4.CardToString.exe
+D:\GitRepo\08.EnumAndAttributes\4.CardToString\obj\Debug\4.CardToString.pdb

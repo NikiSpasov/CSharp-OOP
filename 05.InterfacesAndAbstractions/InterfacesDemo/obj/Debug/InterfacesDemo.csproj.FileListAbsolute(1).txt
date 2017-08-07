@@ -1,0 +1,6 @@
+C:\Users\Niki\iCloudDrive\C# OOP\05.InterfacesAndAbstractions\InterfacesDemo\bin\Debug\InterfacesDemo.exe.config
+C:\Users\Niki\iCloudDrive\C# OOP\05.InterfacesAndAbstractions\InterfacesDemo\bin\Debug\InterfacesDemo.exe
+C:\Users\Niki\iCloudDrive\C# OOP\05.InterfacesAndAbstractions\InterfacesDemo\bin\Debug\InterfacesDemo.pdb
+C:\Users\Niki\iCloudDrive\C# OOP\05.InterfacesAndAbstractions\InterfacesDemo\obj\Debug\InterfacesDemo.csprojResolveAssemblyReference.cache
+C:\Users\Niki\iCloudDrive\C# OOP\05.InterfacesAndAbstractions\InterfacesDemo\obj\Debug\InterfacesDemo.exe
+C:\Users\Niki\iCloudDrive\C# OOP\05.InterfacesAndAbstractions\InterfacesDemo\obj\Debug\InterfacesDemo.pdb

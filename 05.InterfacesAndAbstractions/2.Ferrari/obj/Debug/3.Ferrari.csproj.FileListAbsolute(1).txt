@@ -1,0 +1,6 @@
+C:\Users\Niki\iCloudDrive\C# OOP\05.InterfacesAndAbstractions\2.Ferrari\bin\Debug\2.Ferrari.exe.config
+C:\Users\Niki\iCloudDrive\C# OOP\05.InterfacesAndAbstractions\2.Ferrari\bin\Debug\2.Ferrari.exe
+C:\Users\Niki\iCloudDrive\C# OOP\05.InterfacesAndAbstractions\2.Ferrari\bin\Debug\2.Ferrari.pdb
+C:\Users\Niki\iCloudDrive\C# OOP\05.InterfacesAndAbstractions\2.Ferrari\obj\Debug\2.Ferrari.exe
+C:\Users\Niki\iCloudDrive\C# OOP\05.InterfacesAndAbstractions\2.Ferrari\obj\Debug\2.Ferrari.pdb
+C:\Users\Niki\iCloudDrive\C# OOP\05.InterfacesAndAbstractions\2.Ferrari\obj\Debug\3.Ferrari.csprojResolveAssemblyReference.cache

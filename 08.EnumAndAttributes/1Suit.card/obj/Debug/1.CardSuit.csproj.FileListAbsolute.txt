@@ -1,0 +1,5 @@
+D:\GitRepo\08.EnumAndAttributes\1.CardSuit\bin\Debug\1.CardSuit.exe.config
+D:\GitRepo\08.EnumAndAttributes\1.CardSuit\bin\Debug\1.CardSuit.exe
+D:\GitRepo\08.EnumAndAttributes\1.CardSuit\bin\Debug\1.CardSuit.pdb
+D:\GitRepo\08.EnumAndAttributes\1.CardSuit\obj\Debug\1.CardSuit.exe
+D:\GitRepo\08.EnumAndAttributes\1.CardSuit\obj\Debug\1.CardSuit.pdb

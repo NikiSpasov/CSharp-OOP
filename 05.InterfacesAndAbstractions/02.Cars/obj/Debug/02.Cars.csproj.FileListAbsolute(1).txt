@@ -1,0 +1,6 @@
+C:\Users\Niki\iCloudDrive\C# OOP\05.InterfacesAndAbstractions\02.Cars\bin\Debug\02.Cars.exe.config
+C:\Users\Niki\iCloudDrive\C# OOP\05.InterfacesAndAbstractions\02.Cars\bin\Debug\02.Cars.exe
+C:\Users\Niki\iCloudDrive\C# OOP\05.InterfacesAndAbstractions\02.Cars\bin\Debug\02.Cars.pdb
+C:\Users\Niki\iCloudDrive\C# OOP\05.InterfacesAndAbstractions\02.Cars\obj\Debug\02.Cars.csprojResolveAssemblyReference.cache
+C:\Users\Niki\iCloudDrive\C# OOP\05.InterfacesAndAbstractions\02.Cars\obj\Debug\02.Cars.exe
+C:\Users\Niki\iCloudDrive\C# OOP\05.InterfacesAndAbstractions\02.Cars\obj\Debug\02.Cars.pdb

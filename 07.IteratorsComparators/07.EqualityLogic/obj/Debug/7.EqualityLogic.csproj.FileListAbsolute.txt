@@ -1,0 +1,5 @@
+D:\GitRepo\07.IteratorsComparators\07.EqualityLogic\bin\Debug\07.EqualityLogic.exe.config
+D:\GitRepo\07.IteratorsComparators\07.EqualityLogic\bin\Debug\07.EqualityLogic.exe
+D:\GitRepo\07.IteratorsComparators\07.EqualityLogic\bin\Debug\07.EqualityLogic.pdb
+D:\GitRepo\07.IteratorsComparators\07.EqualityLogic\obj\Debug\07.EqualityLogic.exe
+D:\GitRepo\07.IteratorsComparators\07.EqualityLogic\obj\Debug\07.EqualityLogic.pdb

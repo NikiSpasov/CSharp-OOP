@@ -1,0 +1,6 @@
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\4.GenericSwapMethodInteger\bin\Debug\4.GenericSwapMethodInteger.exe.config
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\4.GenericSwapMethodInteger\bin\Debug\4.GenericSwapMethodInteger.exe
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\4.GenericSwapMethodInteger\bin\Debug\4.GenericSwapMethodInteger.pdb
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\4.GenericSwapMethodInteger\obj\Debug\4.GenericSwapMethodInteger.exe
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\4.GenericSwapMethodInteger\obj\Debug\4.GenericSwapMethodInteger.pdb
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\4.GenericSwapMethodInteger\obj\Debug\4.GenericSwapMethodInteger.csprojResolveAssemblyReference.cache

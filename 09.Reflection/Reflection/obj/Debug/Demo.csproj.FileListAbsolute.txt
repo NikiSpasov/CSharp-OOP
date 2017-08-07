@@ -1,0 +1,11 @@
+D:\GitRepo\Reflection\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\GitRepo\Reflection\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\GitRepo\Reflection\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\GitRepo\Reflection\ConsoleApp1\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+D:\GitRepo\Reflection\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\GitRepo\Reflection\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Nik\iCloudDrive\C# OOP\09.Reflection\Reflection\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Nik\iCloudDrive\C# OOP\09.Reflection\Reflection\bin\Debug\ConsoleApp1.exe
+C:\Users\Nik\iCloudDrive\C# OOP\09.Reflection\Reflection\bin\Debug\ConsoleApp1.pdb
+C:\Users\Nik\iCloudDrive\C# OOP\09.Reflection\Reflection\obj\Debug\ConsoleApp1.exe
+C:\Users\Nik\iCloudDrive\C# OOP\09.Reflection\Reflection\obj\Debug\ConsoleApp1.pdb

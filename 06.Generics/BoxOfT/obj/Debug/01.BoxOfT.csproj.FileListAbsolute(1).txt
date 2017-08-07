@@ -1,0 +1,5 @@
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\BoxOfT\bin\Debug\BoxOfT.exe.config
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\BoxOfT\bin\Debug\BoxOfT.exe
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\BoxOfT\bin\Debug\BoxOfT.pdb
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\BoxOfT\obj\Debug\BoxOfT.exe
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\BoxOfT\obj\Debug\BoxOfT.pdb

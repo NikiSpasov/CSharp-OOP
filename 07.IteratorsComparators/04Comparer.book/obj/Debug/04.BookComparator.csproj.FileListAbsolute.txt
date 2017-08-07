@@ -1,0 +1,5 @@
+D:\GitRepo\07.IteratorsComparators\04.BookComparer\bin\Debug\04.BookComparer.exe.config
+D:\GitRepo\07.IteratorsComparators\04.BookComparer\bin\Debug\04.BookComparer.exe
+D:\GitRepo\07.IteratorsComparators\04.BookComparer\bin\Debug\04.BookComparer.pdb
+D:\GitRepo\07.IteratorsComparators\04.BookComparer\obj\Debug\04.BookComparer.exe
+D:\GitRepo\07.IteratorsComparators\04.BookComparer\obj\Debug\04.BookComparer.pdb

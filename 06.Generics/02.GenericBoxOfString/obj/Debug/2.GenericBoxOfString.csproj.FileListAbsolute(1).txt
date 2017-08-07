@@ -1,0 +1,6 @@
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\02.GenericBoxOfString\bin\Debug\02.GenericBoxOfString.exe.config
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\02.GenericBoxOfString\bin\Debug\02.GenericBoxOfString.exe
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\02.GenericBoxOfString\bin\Debug\02.GenericBoxOfString.pdb
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\02.GenericBoxOfString\obj\Debug\2.GenericBoxOfString.csprojResolveAssemblyReference.cache
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\02.GenericBoxOfString\obj\Debug\02.GenericBoxOfString.exe
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\02.GenericBoxOfString\obj\Debug\02.GenericBoxOfString.pdb

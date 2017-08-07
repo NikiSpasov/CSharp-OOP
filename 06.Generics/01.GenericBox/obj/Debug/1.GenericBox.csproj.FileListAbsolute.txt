@@ -1,0 +1,6 @@
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\01.GenericBox\bin\Debug\01.GenericBox.exe.config
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\01.GenericBox\bin\Debug\01.GenericBox.exe
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\01.GenericBox\bin\Debug\01.GenericBox.pdb
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\01.GenericBox\obj\Debug\01.GenericBox.exe
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\01.GenericBox\obj\Debug\01.GenericBox.pdb
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\01.GenericBox\obj\Debug\1.GenericBox.csprojResolveAssemblyReference.cache

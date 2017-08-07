@@ -1,0 +1,5 @@
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\08.CustomListSorter\bin\Debug\08.CustomListSorter.exe.config
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\08.CustomListSorter\bin\Debug\08.CustomListSorter.exe
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\08.CustomListSorter\bin\Debug\08.CustomListSorter.pdb
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\08.CustomListSorter\obj\Debug\08.CustomListSorter.exe
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\08.CustomListSorter\obj\Debug\08.CustomListSorter.pdb

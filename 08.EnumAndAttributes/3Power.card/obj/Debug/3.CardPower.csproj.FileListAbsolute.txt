@@ -1,0 +1,5 @@
+D:\GitRepo\08.EnumAndAttributes\3.CardPower\bin\Debug\3.CardPower.exe.config
+D:\GitRepo\08.EnumAndAttributes\3.CardPower\bin\Debug\3.CardPower.exe
+D:\GitRepo\08.EnumAndAttributes\3.CardPower\bin\Debug\3.CardPower.pdb
+D:\GitRepo\08.EnumAndAttributes\3.CardPower\obj\Debug\3.CardPower.exe
+D:\GitRepo\08.EnumAndAttributes\3.CardPower\obj\Debug\3.CardPower.pdb

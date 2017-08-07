@@ -1,0 +1,5 @@
+D:\GitRepo\08.EnumAndAttributes\2.CardRank\bin\Debug\2.CardRank.exe.config
+D:\GitRepo\08.EnumAndAttributes\2.CardRank\bin\Debug\2.CardRank.exe
+D:\GitRepo\08.EnumAndAttributes\2.CardRank\bin\Debug\2.CardRank.pdb
+D:\GitRepo\08.EnumAndAttributes\2.CardRank\obj\Debug\2.CardRank.exe
+D:\GitRepo\08.EnumAndAttributes\2.CardRank\obj\Debug\2.CardRank.pdb

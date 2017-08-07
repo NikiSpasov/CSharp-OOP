@@ -1,0 +1,6 @@
+D:\GitRepo\08.EnumAndAttributes\9.TrafficLights\bin\Debug\9.TrafficLights.exe.config
+D:\GitRepo\08.EnumAndAttributes\9.TrafficLights\bin\Debug\9.TrafficLights.exe
+D:\GitRepo\08.EnumAndAttributes\9.TrafficLights\bin\Debug\9.TrafficLights.pdb
+D:\GitRepo\08.EnumAndAttributes\9.TrafficLights\obj\Debug\9.TrafficLights.csprojResolveAssemblyReference.cache
+D:\GitRepo\08.EnumAndAttributes\9.TrafficLights\obj\Debug\9.TrafficLights.exe
+D:\GitRepo\08.EnumAndAttributes\9.TrafficLights\obj\Debug\9.TrafficLights.pdb

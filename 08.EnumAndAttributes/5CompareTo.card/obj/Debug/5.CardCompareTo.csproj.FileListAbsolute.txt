@@ -1,0 +1,6 @@
+D:\GitRepo\08.EnumAndAttributes\5.CardCompareTo\bin\Debug\5.CardCompareTo.exe.config
+D:\GitRepo\08.EnumAndAttributes\5.CardCompareTo\bin\Debug\5.CardCompareTo.exe
+D:\GitRepo\08.EnumAndAttributes\5.CardCompareTo\bin\Debug\5.CardCompareTo.pdb
+D:\GitRepo\08.EnumAndAttributes\5.CardCompareTo\obj\Debug\5.CardCompareTo.csprojResolveAssemblyReference.cache
+D:\GitRepo\08.EnumAndAttributes\5.CardCompareTo\obj\Debug\5.CardCompareTo.exe
+D:\GitRepo\08.EnumAndAttributes\5.CardCompareTo\obj\Debug\5.CardCompareTo.pdb

@@ -1,0 +1,6 @@
+C:\Users\Nik\iCloudDrive\C# OOP\06.Generics\5.GenericCountMethodString\bin\Debug\5.GenericCountMethodString.exe.config
+C:\Users\Nik\iCloudDrive\C# OOP\06.Generics\5.GenericCountMethodString\bin\Debug\5.GenericCountMethodString.exe
+C:\Users\Nik\iCloudDrive\C# OOP\06.Generics\5.GenericCountMethodString\bin\Debug\5.GenericCountMethodString.pdb
+C:\Users\Nik\iCloudDrive\C# OOP\06.Generics\5.GenericCountMethodString\obj\Debug\5.GenericCountMethodString.csprojResolveAssemblyReference.cache
+C:\Users\Nik\iCloudDrive\C# OOP\06.Generics\5.GenericCountMethodString\obj\Debug\5.GenericCountMethodString.exe
+C:\Users\Nik\iCloudDrive\C# OOP\06.Generics\5.GenericCountMethodString\obj\Debug\5.GenericCountMethodString.pdb

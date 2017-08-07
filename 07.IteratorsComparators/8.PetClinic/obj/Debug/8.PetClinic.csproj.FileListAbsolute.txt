@@ -1,0 +1,6 @@
+C:\Users\Nik\iCloudDrive\C# OOP\07.IteratorsComparators\8.PetClinic\bin\Debug\8.PetClinic.exe.config
+C:\Users\Nik\iCloudDrive\C# OOP\07.IteratorsComparators\8.PetClinic\bin\Debug\8.PetClinic.exe
+C:\Users\Nik\iCloudDrive\C# OOP\07.IteratorsComparators\8.PetClinic\bin\Debug\8.PetClinic.pdb
+C:\Users\Nik\iCloudDrive\C# OOP\07.IteratorsComparators\8.PetClinic\obj\Debug\8.PetClinic.csprojResolveAssemblyReference.cache
+C:\Users\Nik\iCloudDrive\C# OOP\07.IteratorsComparators\8.PetClinic\obj\Debug\8.PetClinic.exe
+C:\Users\Nik\iCloudDrive\C# OOP\07.IteratorsComparators\8.PetClinic\obj\Debug\8.PetClinic.pdb

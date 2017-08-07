@@ -1,0 +1,5 @@
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\7.CustomList\bin\Debug\7.CustomList.exe.config
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\7.CustomList\bin\Debug\7.CustomList.exe
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\7.CustomList\bin\Debug\7.CustomList.pdb
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\7.CustomList\obj\Debug\7.CustomList.exe
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\7.CustomList\obj\Debug\7.CustomList.pdb

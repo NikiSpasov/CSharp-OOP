@@ -1,0 +1,6 @@
+C:\Users\Nik\iCloudDrive\C# OOP\06.Generics\BoxOfT\bin\Debug\BoxOfT.exe.config
+C:\Users\Nik\iCloudDrive\C# OOP\06.Generics\BoxOfT\bin\Debug\BoxOfT.exe
+C:\Users\Nik\iCloudDrive\C# OOP\06.Generics\BoxOfT\bin\Debug\BoxOfT.pdb
+C:\Users\Nik\iCloudDrive\C# OOP\06.Generics\BoxOfT\obj\Debug\01.BoxOfT.csprojResolveAssemblyReference.cache
+C:\Users\Nik\iCloudDrive\C# OOP\06.Generics\BoxOfT\obj\Debug\BoxOfT.exe
+C:\Users\Nik\iCloudDrive\C# OOP\06.Generics\BoxOfT\obj\Debug\BoxOfT.pdb

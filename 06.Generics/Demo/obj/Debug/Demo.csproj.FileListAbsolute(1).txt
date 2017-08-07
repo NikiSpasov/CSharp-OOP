@@ -1,0 +1,6 @@
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\Demo\bin\Debug\Demo.exe.config
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\Demo\bin\Debug\Demo.exe
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\Demo\bin\Debug\Demo.pdb
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\Demo\obj\Debug\Demo.exe
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\Demo\obj\Debug\Demo.pdb
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache

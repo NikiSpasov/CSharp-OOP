@@ -1,0 +1,3 @@
+C:\Users\Nik\iCloudDrive\C# OOP\05.InterfacesAndAbstractions\1.IPerson\bin\Debug\1.IPerson.exe.config
+C:\Users\Nik\iCloudDrive\C# OOP\05.InterfacesAndAbstractions\1.IPerson\obj\Debug\1.IPerson.exe
+C:\Users\Nik\iCloudDrive\C# OOP\05.InterfacesAndAbstractions\1.IPerson\obj\Debug\1.IPerson.pdb

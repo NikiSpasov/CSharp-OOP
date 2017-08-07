@@ -1,0 +1,5 @@
+D:\GitRepo\08.EnumAndAttributes\8Game(1).card\bin\Debug\_8.CardGame.exe.config
+D:\GitRepo\08.EnumAndAttributes\8Game(1).card\bin\Debug\_8.CardGame.exe
+D:\GitRepo\08.EnumAndAttributes\8Game(1).card\bin\Debug\_8.CardGame.pdb
+D:\GitRepo\08.EnumAndAttributes\8Game(1).card\obj\Debug\_8.CardGame.exe
+D:\GitRepo\08.EnumAndAttributes\8Game(1).card\obj\Debug\_8.CardGame.pdb

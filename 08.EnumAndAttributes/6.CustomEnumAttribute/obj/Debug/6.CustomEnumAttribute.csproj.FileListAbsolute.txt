@@ -1,0 +1,12 @@
+D:\GitRepo\08.EnumAndAttributes\6.CustomEnumAttribute\bin\Debug\6.CustomEnumAttribute.exe.config
+D:\GitRepo\08.EnumAndAttributes\6.CustomEnumAttribute\bin\Debug\6.CustomEnumAttribute.exe
+D:\GitRepo\08.EnumAndAttributes\6.CustomEnumAttribute\bin\Debug\6.CustomEnumAttribute.pdb
+D:\GitRepo\08.EnumAndAttributes\6.CustomEnumAttribute\obj\Debug\6.CustomEnumAttribute.csprojResolveAssemblyReference.cache
+D:\GitRepo\08.EnumAndAttributes\6.CustomEnumAttribute\obj\Debug\6.CustomEnumAttribute.exe
+D:\GitRepo\08.EnumAndAttributes\6.CustomEnumAttribute\obj\Debug\6.CustomEnumAttribute.pdb
+C:\Users\Nik\iCloudDrive\C# OOP\08.EnumAndAttributes\6.CustomEnumAttribute\bin\Debug\6.CustomEnumAttribute.exe.config
+C:\Users\Nik\iCloudDrive\C# OOP\08.EnumAndAttributes\6.CustomEnumAttribute\bin\Debug\6.CustomEnumAttribute.exe
+C:\Users\Nik\iCloudDrive\C# OOP\08.EnumAndAttributes\6.CustomEnumAttribute\bin\Debug\6.CustomEnumAttribute.pdb
+C:\Users\Nik\iCloudDrive\C# OOP\08.EnumAndAttributes\6.CustomEnumAttribute\obj\Debug\6.CustomEnumAttribute.exe
+C:\Users\Nik\iCloudDrive\C# OOP\08.EnumAndAttributes\6.CustomEnumAttribute\obj\Debug\6.CustomEnumAttribute.pdb
+C:\Users\Nik\iCloudDrive\C# OOP\08.EnumAndAttributes\6.CustomEnumAttribute\obj\Debug\6.CustomEnumAttribute.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Nik\iCloudDrive\C# OOP\09.Reflection\02BlackBoxInteger\bin\Debug\02BlackBoxInteger.exe.config
+C:\Users\Nik\iCloudDrive\C# OOP\09.Reflection\02BlackBoxInteger\bin\Debug\02BlackBoxInteger.exe
+C:\Users\Nik\iCloudDrive\C# OOP\09.Reflection\02BlackBoxInteger\bin\Debug\02BlackBoxInteger.pdb
+C:\Users\Nik\iCloudDrive\C# OOP\09.Reflection\02BlackBoxInteger\obj\Debug\02BlackBoxInteger.exe
+C:\Users\Nik\iCloudDrive\C# OOP\09.Reflection\02BlackBoxInteger\obj\Debug\02BlackBoxInteger.pdb

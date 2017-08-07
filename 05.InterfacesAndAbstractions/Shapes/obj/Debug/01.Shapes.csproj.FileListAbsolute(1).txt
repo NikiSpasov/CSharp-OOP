@@ -1,0 +1,5 @@
+C:\Users\Niki\iCloudDrive\C# OOP\05.InterfacesAndAbstractions\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\Niki\iCloudDrive\C# OOP\05.InterfacesAndAbstractions\Shapes\bin\Debug\Shapes.exe
+C:\Users\Niki\iCloudDrive\C# OOP\05.InterfacesAndAbstractions\Shapes\bin\Debug\Shapes.pdb
+C:\Users\Niki\iCloudDrive\C# OOP\05.InterfacesAndAbstractions\Shapes\obj\Debug\Shapes.exe
+C:\Users\Niki\iCloudDrive\C# OOP\05.InterfacesAndAbstractions\Shapes\obj\Debug\Shapes.pdb

@@ -1,0 +1,6 @@
+C:\Users\Nik\iCloudDrive\C# OOP\10.UnitTesting\Demo\Game\bin\Debug\Game.exe.config
+C:\Users\Nik\iCloudDrive\C# OOP\10.UnitTesting\Demo\Game\bin\Debug\Game.exe
+C:\Users\Nik\iCloudDrive\C# OOP\10.UnitTesting\Demo\Game\bin\Debug\Game.pdb
+C:\Users\Nik\iCloudDrive\C# OOP\10.UnitTesting\Demo\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Nik\iCloudDrive\C# OOP\10.UnitTesting\Demo\Game\obj\Debug\Game.exe
+C:\Users\Nik\iCloudDrive\C# OOP\10.UnitTesting\Demo\Game\obj\Debug\Game.pdb

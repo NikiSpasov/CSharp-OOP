@@ -1,0 +1,6 @@
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\03.Scale\bin\Debug\03.Scale.exe.config
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\03.Scale\bin\Debug\03.Scale.exe
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\03.Scale\bin\Debug\03.Scale.pdb
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\03.Scale\obj\Debug\03.Scale.csprojResolveAssemblyReference.cache
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\03.Scale\obj\Debug\03.Scale.exe
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\03.Scale\obj\Debug\03.Scale.pdb

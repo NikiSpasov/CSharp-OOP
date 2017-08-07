@@ -1,0 +1,11 @@
+D:\GitRepo\08.EnumAndAttributes\Demo\bin\Debug\Demo.exe.config
+D:\GitRepo\08.EnumAndAttributes\Demo\bin\Debug\Demo.exe
+D:\GitRepo\08.EnumAndAttributes\Demo\bin\Debug\Demo.pdb
+D:\GitRepo\08.EnumAndAttributes\Demo\obj\Debug\Demo.exe
+D:\GitRepo\08.EnumAndAttributes\Demo\obj\Debug\Demo.pdb
+D:\GitRepo\08.EnumAndAttributes\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\Nik\iCloudDrive\C# OOP\08.EnumAndAttributes\Demo\bin\Debug\Demo.exe.config
+C:\Users\Nik\iCloudDrive\C# OOP\08.EnumAndAttributes\Demo\bin\Debug\Demo.exe
+C:\Users\Nik\iCloudDrive\C# OOP\08.EnumAndAttributes\Demo\bin\Debug\Demo.pdb
+C:\Users\Nik\iCloudDrive\C# OOP\08.EnumAndAttributes\Demo\obj\Debug\Demo.exe
+C:\Users\Nik\iCloudDrive\C# OOP\08.EnumAndAttributes\Demo\obj\Debug\Demo.pdb

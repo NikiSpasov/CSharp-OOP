@@ -1,0 +1,5 @@
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\2.1.GenericBoxOfInt\bin\Debug\2.1.GenericBoxOfInt.exe.config
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\2.1.GenericBoxOfInt\bin\Debug\2.1.GenericBoxOfInt.exe
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\2.1.GenericBoxOfInt\bin\Debug\2.1.GenericBoxOfInt.pdb
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\2.1.GenericBoxOfInt\obj\Debug\2.1.GenericBoxOfInt.exe
+C:\Users\Niki\iCloudDrive\C# OOP\06.Generics\2.1.GenericBoxOfInt\obj\Debug\2.1.GenericBoxOfInt.pdb

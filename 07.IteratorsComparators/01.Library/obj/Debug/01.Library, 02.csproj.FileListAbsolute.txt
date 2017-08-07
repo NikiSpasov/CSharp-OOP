@@ -1,0 +1,5 @@
+D:\GitRepo\07.IteratorsComparators\01.Library\bin\Debug\01.Library.exe.config
+D:\GitRepo\07.IteratorsComparators\01.Library\bin\Debug\01.Library.exe
+D:\GitRepo\07.IteratorsComparators\01.Library\bin\Debug\01.Library.pdb
+D:\GitRepo\07.IteratorsComparators\01.Library\obj\Debug\01.Library.exe
+D:\GitRepo\07.IteratorsComparators\01.Library\obj\Debug\01.Library.pdb

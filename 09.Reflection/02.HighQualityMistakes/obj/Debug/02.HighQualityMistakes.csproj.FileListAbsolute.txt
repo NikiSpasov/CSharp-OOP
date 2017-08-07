@@ -1,0 +1,5 @@
+C:\Users\Nik\iCloudDrive\C# OOP\09.Reflection\02.HighQualityMistakes\bin\Debug\02.HighQualityMistakes.exe.config
+C:\Users\Nik\iCloudDrive\C# OOP\09.Reflection\02.HighQualityMistakes\bin\Debug\02.HighQualityMistakes.exe
+C:\Users\Nik\iCloudDrive\C# OOP\09.Reflection\02.HighQualityMistakes\bin\Debug\02.HighQualityMistakes.pdb
+C:\Users\Nik\iCloudDrive\C# OOP\09.Reflection\02.HighQualityMistakes\obj\Debug\02.HighQualityMistakes.exe
+C:\Users\Nik\iCloudDrive\C# OOP\09.Reflection\02.HighQualityMistakes\obj\Debug\02.HighQualityMistakes.pdb

@@ -27,7 +27,7 @@ namespace Reflection
             //Type typeOfCatWithoutInstance = typeof(Cat);
 
             //var type = typeof(Cat);
-            
+
 
             //What can we do:
 
@@ -66,49 +66,54 @@ namespace Reflection
             ////but if the constructor is not empty:
             //var catWithParams = (Cat) Activator.CreateInstance(typeof(Cat), "Pesho");//if the ctor is with one string Name.
             ////otherwise - exeption;
+            /// isFamily - this is for protected modifier
+            /// for fields, field.Attributes give us access modifier name with capital letter!
+            /// 
 
             var typeOfCat = typeof(Cat);
 
             var cat = new Cat();
             var fields = typeOfCat.GetFields(
-                BindingFlags.Instance | BindingFlags.Static | BindingFlags.NonPublic | BindingFlags.Public);//all fields,
+                BindingFlags.Instance | BindingFlags.Static | BindingFlags.NonPublic |
+                BindingFlags.Public); //all fields,
             //modified by BindingFlags;
             //var field = typeOfCat.GetField("Name"); //this field, IF IT EXIST!
-            foreach (var field in fields)
-            {
-                Console.WriteLine(field.Name);
-                if (field.Name.Contains("Name"))
-                {
-                    field.SetValue(cat, "Pesho");//to an instance
-                }
-            }
-            Console.WriteLine(cat.Name);//Pesho
+            //    foreach (var field in fields)
+            //    {
+            //        Console.WriteLine(field.Name);
+            //        if (field.Name.Contains("Name"))
+            //        {
+            //            field.SetValue(cat, "Pesho");//to an instance
+            //        }
+            //    }
+            //    Console.WriteLine(cat.Name);//Pesho
 
-            var properties = typeOfCat.GetProperties();
-            foreach (var prop in properties)
-            {
-                Console.WriteLine(prop.Name); //Name, Age
-            }
+            //    var properties = typeOfCat.GetProperties();
+            //    foreach (var prop in properties)
+            //    {
+            //        Console.WriteLine(prop.Name); //Name, Age
+            //    }
 
-            var constructors = typeof(Cat).GetConstructors();
-            foreach (var constructor in constructors)
-            {
-                var parametars = constructor.GetParameters();
-                foreach (var param in parametars)
-                {
-                    Console.WriteLine(param.Name);
-                }
-            }
-            var construct = typeof(Cat).GetConstructor(Type.EmptyTypes);
-            var caty = construct.Invoke(new object[0]);
-            var name = typeof(Cat)
-                .GetProperty("Name")
-                .GetCustomAttribute<AuthorAttribute>()
-                ?.Name;
+            //    var constructors = typeof(Cat).GetConstructors();
+            //    foreach (var constructor in constructors)
+            //    {
+            //        var parametars = constructor.GetParameters();
+            //        foreach (var param in parametars)
+            //        {
+            //            Console.WriteLine(param.Name);
+            //        }
+            //    }
+            //    var construct = typeof(Cat).GetConstructor(Type.EmptyTypes);
+            //    var caty = construct.Invoke(new object[0]);
+            //    var name = typeof(Cat)
+            //        .GetProperty("Name")
+            //        .GetCustomAttribute<AuthorAttribute>()
+            //        ?.Name;
 
+            //}
         }
-    }
 
+    }
 }
 
 

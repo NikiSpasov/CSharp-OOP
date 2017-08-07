@@ -1,0 +1,6 @@
+C:\Users\Nik\iCloudDrive\C# OOP\08.EnumAndAttributes\04.Tracker\bin\Debug\04.Tracker.exe.config
+C:\Users\Nik\iCloudDrive\C# OOP\08.EnumAndAttributes\04.Tracker\bin\Debug\04.Tracker.exe
+C:\Users\Nik\iCloudDrive\C# OOP\08.EnumAndAttributes\04.Tracker\bin\Debug\04.Tracker.pdb
+C:\Users\Nik\iCloudDrive\C# OOP\08.EnumAndAttributes\04.Tracker\obj\Debug\04.Tracker.exe
+C:\Users\Nik\iCloudDrive\C# OOP\08.EnumAndAttributes\04.Tracker\obj\Debug\04.Tracker.pdb
+C:\Users\Nik\iCloudDrive\C# OOP\08.EnumAndAttributes\04.Tracker\obj\Debug\04.Tracker.csprojResolveAssemblyReference.cache

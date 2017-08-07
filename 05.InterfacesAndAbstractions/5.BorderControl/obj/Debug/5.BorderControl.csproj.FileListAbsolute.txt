@@ -1,0 +1,6 @@
+C:\Users\Niki\iCloudDrive\C# OOP\05.InterfacesAndAbstractions\5.BorderControl\bin\Debug\5.BorderControl.exe.config
+C:\Users\Niki\iCloudDrive\C# OOP\05.InterfacesAndAbstractions\5.BorderControl\bin\Debug\5.BorderControl.exe
+C:\Users\Niki\iCloudDrive\C# OOP\05.InterfacesAndAbstractions\5.BorderControl\bin\Debug\5.BorderControl.pdb
+C:\Users\Niki\iCloudDrive\C# OOP\05.InterfacesAndAbstractions\5.BorderControl\obj\Debug\5.BorderControl.csprojResolveAssemblyReference.cache
+C:\Users\Niki\iCloudDrive\C# OOP\05.InterfacesAndAbstractions\5.BorderControl\obj\Debug\5.BorderControl.exe
+C:\Users\Niki\iCloudDrive\C# OOP\05.InterfacesAndAbstractions\5.BorderControl\obj\Debug\5.BorderControl.pdb

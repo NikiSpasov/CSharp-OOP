@@ -1,0 +1,12 @@
+D:\GitRepo\08.EnumAndAttributes\01.WeekDay\bin\Debug\01.WeekDay.exe.config
+D:\GitRepo\08.EnumAndAttributes\01.WeekDay\bin\Debug\01.WeekDay.exe
+D:\GitRepo\08.EnumAndAttributes\01.WeekDay\bin\Debug\01.WeekDay.pdb
+D:\GitRepo\08.EnumAndAttributes\01.WeekDay\obj\Debug\01.WeekDay.exe
+D:\GitRepo\08.EnumAndAttributes\01.WeekDay\obj\Debug\01.WeekDay.pdb
+D:\GitRepo\08.EnumAndAttributes\01.WeekDay\obj\Debug\01.WeekDay.csprojResolveAssemblyReference.cache
+C:\Users\Nik\iCloudDrive\C# OOP\08.EnumAndAttributes\01.WeekDay\bin\Debug\01.WeekDay.exe.config
+C:\Users\Nik\iCloudDrive\C# OOP\08.EnumAndAttributes\01.WeekDay\bin\Debug\01.WeekDay.exe
+C:\Users\Nik\iCloudDrive\C# OOP\08.EnumAndAttributes\01.WeekDay\bin\Debug\01.WeekDay.pdb
+C:\Users\Nik\iCloudDrive\C# OOP\08.EnumAndAttributes\01.WeekDay\obj\Debug\01.WeekDay.exe
+C:\Users\Nik\iCloudDrive\C# OOP\08.EnumAndAttributes\01.WeekDay\obj\Debug\01.WeekDay.pdb
+C:\Users\Nik\iCloudDrive\C# OOP\08.EnumAndAttributes\01.WeekDay\obj\Debug\01.WeekDay.csprojResolveAssemblyReference.cache

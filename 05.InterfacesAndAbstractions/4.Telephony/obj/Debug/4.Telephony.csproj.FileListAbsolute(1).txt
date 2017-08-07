@@ -1,0 +1,6 @@
+C:\Users\Niki\iCloudDrive\C# OOP\05.InterfacesAndAbstractions\4.Telephony\bin\Debug\4.Telephony.exe.config
+C:\Users\Niki\iCloudDrive\C# OOP\05.InterfacesAndAbstractions\4.Telephony\bin\Debug\4.Telephony.exe
+C:\Users\Niki\iCloudDrive\C# OOP\05.InterfacesAndAbstractions\4.Telephony\bin\Debug\4.Telephony.pdb
+C:\Users\Niki\iCloudDrive\C# OOP\05.InterfacesAndAbstractions\4.Telephony\obj\Debug\4.Telephony.csprojResolveAssemblyReference.cache
+C:\Users\Niki\iCloudDrive\C# OOP\05.InterfacesAndAbstractions\4.Telephony\obj\Debug\4.Telephony.exe
+C:\Users\Niki\iCloudDrive\C# OOP\05.InterfacesAndAbstractions\4.Telephony\obj\Debug\4.Telephony.pdb

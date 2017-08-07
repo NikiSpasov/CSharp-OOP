@@ -1,0 +1,5 @@
+C:\Users\Nik\iCloudDrive\C# OOP\09.Reflection\04.Collector\bin\Debug\04.Collector.exe.config
+C:\Users\Nik\iCloudDrive\C# OOP\09.Reflection\04.Collector\bin\Debug\04.Collector.exe
+C:\Users\Nik\iCloudDrive\C# OOP\09.Reflection\04.Collector\bin\Debug\04.Collector.pdb
+C:\Users\Nik\iCloudDrive\C# OOP\09.Reflection\04.Collector\obj\Debug\04.Collector.exe
+C:\Users\Nik\iCloudDrive\C# OOP\09.Reflection\04.Collector\obj\Debug\04.Collector.pdb

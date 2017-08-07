@@ -1,0 +1,6 @@
+D:\GitRepo\07.IteratorsComparators\IterratorsComperators\bin\Debug\IterratorsComperators.exe.config
+D:\GitRepo\07.IteratorsComparators\IterratorsComperators\bin\Debug\IterratorsComperators.exe
+D:\GitRepo\07.IteratorsComparators\IterratorsComperators\bin\Debug\IterratorsComperators.pdb
+D:\GitRepo\07.IteratorsComparators\IterratorsComperators\obj\Debug\IterratorsComperators.exe
+D:\GitRepo\07.IteratorsComparators\IterratorsComperators\obj\Debug\IterratorsComperators.pdb
+D:\GitRepo\07.IteratorsComparators\IterratorsComperators\obj\Debug\IterratorsComperators.csprojResolveAssemblyReference.cache
