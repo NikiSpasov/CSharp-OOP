@@ -1,0 +1,6 @@
+C:\Users\Nik\iCloudDrive\C# OOP\11.SOLID\Lab\03.Detail Printer\bin\Debug\03.Detail Printer.exe.config
+C:\Users\Nik\iCloudDrive\C# OOP\11.SOLID\Lab\03.Detail Printer\bin\Debug\03.Detail Printer.exe
+C:\Users\Nik\iCloudDrive\C# OOP\11.SOLID\Lab\03.Detail Printer\bin\Debug\03.Detail Printer.pdb
+C:\Users\Nik\iCloudDrive\C# OOP\11.SOLID\Lab\03.Detail Printer\obj\Debug\03.Detail Printer.csprojResolveAssemblyReference.cache
+C:\Users\Nik\iCloudDrive\C# OOP\11.SOLID\Lab\03.Detail Printer\obj\Debug\03.Detail Printer.exe
+C:\Users\Nik\iCloudDrive\C# OOP\11.SOLID\Lab\03.Detail Printer\obj\Debug\03.Detail Printer.pdb

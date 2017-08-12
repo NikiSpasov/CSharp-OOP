@@ -1,0 +1,6 @@
+C:\Users\Nik\iCloudDrive\C# OOP\11.SOLID\Lab\02.Graphic Editor\bin\Debug\02.Graphic Editor.exe.config
+C:\Users\Nik\iCloudDrive\C# OOP\11.SOLID\Lab\02.Graphic Editor\bin\Debug\02.Graphic Editor.exe
+C:\Users\Nik\iCloudDrive\C# OOP\11.SOLID\Lab\02.Graphic Editor\bin\Debug\02.Graphic Editor.pdb
+C:\Users\Nik\iCloudDrive\C# OOP\11.SOLID\Lab\02.Graphic Editor\obj\Debug\02.Graphic Editor.csprojResolveAssemblyReference.cache
+C:\Users\Nik\iCloudDrive\C# OOP\11.SOLID\Lab\02.Graphic Editor\obj\Debug\02.Graphic Editor.exe
+C:\Users\Nik\iCloudDrive\C# OOP\11.SOLID\Lab\02.Graphic Editor\obj\Debug\02.Graphic Editor.pdb

@@ -1,0 +1,1 @@
+C:\Users\Nik\iCloudDrive\C# OOP\11.SOLID\Lab\04.Recharge\obj\Debug\04.Recharge.csprojResolveAssemblyReference.cache
