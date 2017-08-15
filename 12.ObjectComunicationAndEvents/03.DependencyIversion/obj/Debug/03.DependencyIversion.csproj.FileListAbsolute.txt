@@ -1,0 +1,6 @@
+D:\MyGit\CSharp-OOP\12.ObjectComunicationAndEvents\03.DependencyIversion\bin\Debug\03.DependencyIversion.exe.config
+D:\MyGit\CSharp-OOP\12.ObjectComunicationAndEvents\03.DependencyIversion\bin\Debug\03.DependencyIversion.exe
+D:\MyGit\CSharp-OOP\12.ObjectComunicationAndEvents\03.DependencyIversion\bin\Debug\03.DependencyIversion.pdb
+D:\MyGit\CSharp-OOP\12.ObjectComunicationAndEvents\03.DependencyIversion\obj\Debug\03.DependencyIversion.csprojResolveAssemblyReference.cache
+D:\MyGit\CSharp-OOP\12.ObjectComunicationAndEvents\03.DependencyIversion\obj\Debug\03.DependencyIversion.exe
+D:\MyGit\CSharp-OOP\12.ObjectComunicationAndEvents\03.DependencyIversion\obj\Debug\03.DependencyIversion.pdb
