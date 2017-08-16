@@ -4,3 +4,6 @@ D:\MyGit\CSharp-OOP\ObjectComunicationAndEvents\00.Demo\bin\Debug\00.Demo.pdb
 D:\MyGit\CSharp-OOP\ObjectComunicationAndEvents\00.Demo\obj\Debug\00.Demo.csprojResolveAssemblyReference.cache
 D:\MyGit\CSharp-OOP\ObjectComunicationAndEvents\00.Demo\obj\Debug\00.Demo.exe
 D:\MyGit\CSharp-OOP\ObjectComunicationAndEvents\00.Demo\obj\Debug\00.Demo.pdb
+D:\MyGit\CSharp-OOP\12.ObjectComunicationAndEvents\00.Demo\obj\Debug\00.Demo.csprojResolveAssemblyReference.cache
+D:\MyGit\CSharp-OOP\12.ObjectComunicationAndEvents\00.Demo\obj\Debug\00.Demo.exe
+D:\MyGit\CSharp-OOP\12.ObjectComunicationAndEvents\00.Demo\obj\Debug\00.Demo.pdb

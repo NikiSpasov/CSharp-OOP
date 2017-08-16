@@ -1,0 +1,6 @@
+D:\MyGit\CSharp-OOP\12.ObjectComunicationAndEvents\01.EventImplementation\bin\Debug\01.EventImplementation.exe.config
+D:\MyGit\CSharp-OOP\12.ObjectComunicationAndEvents\01.EventImplementation\bin\Debug\01.EventImplementation.exe
+D:\MyGit\CSharp-OOP\12.ObjectComunicationAndEvents\01.EventImplementation\bin\Debug\01.EventImplementation.pdb
+D:\MyGit\CSharp-OOP\12.ObjectComunicationAndEvents\01.EventImplementation\obj\Debug\01.EventImplementation.csprojResolveAssemblyReference.cache
+D:\MyGit\CSharp-OOP\12.ObjectComunicationAndEvents\01.EventImplementation\obj\Debug\01.EventImplementation.exe
+D:\MyGit\CSharp-OOP\12.ObjectComunicationAndEvents\01.EventImplementation\obj\Debug\01.EventImplementation.pdb
