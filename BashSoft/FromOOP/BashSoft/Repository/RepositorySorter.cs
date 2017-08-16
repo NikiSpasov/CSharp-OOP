@@ -1,8 +1,7 @@
-﻿using System.Data;
-using BashSoft.Contracts;
-
+﻿
 namespace BashSoft
 {
+    using BashSoft.Contracts;
     using System;
     using System.Collections.Generic;
     using System.Linq;
@@ -12,6 +11,7 @@ namespace BashSoft
         public void OrderAndTake(Dictionary<string, double> studentsWithMark, string comparison, int studentsToTake)
         {
             comparison = comparison.ToLower();
+
             if (comparison == "ascending")
             {
                 this.PrintStudents(studentsWithMark
@@ -19,6 +19,7 @@ namespace BashSoft
                     .Take(studentsToTake)
                     .ToDictionary(x => x.Key, x => x.Value));
             }
+
             else if(comparison == "descending")
             {
                 this.PrintStudents(studentsWithMark
@@ -26,6 +27,7 @@ namespace BashSoft
                     .Take(studentsToTake)
                     .ToDictionary(x => x.Key, x => x.Value));
             }
+
             else
             {
                 throw new ArgumentOutOfRangeException(ExceptionMessages.InvalidQueryComparison);

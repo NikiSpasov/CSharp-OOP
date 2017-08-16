@@ -42,6 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Attributes\AliasAttribute.cs" />
+    <Compile Include="Attributes\InjectAttribute.cs" />
     <Compile Include="Contracts\DataStructures\SimpleSortedList.cs" />
     <Compile Include="Contracts\IContentComparer.cs" />
     <Compile Include="Contracts\ICourse.cs" />
@@ -73,6 +75,7 @@
     <Compile Include="IO\Commands\ChangePathRelativelyCommand.cs" />
     <Compile Include="IO\Commands\Command.cs" />
     <Compile Include="IO\Commands\CompareFilesCommand.cs" />
+    <Compile Include="IO\Commands\DisplayCommand.cs" />
     <Compile Include="IO\Commands\DropDbCommand.cs" />
     <Compile Include="IO\Commands\FilterAndTakeCommand.cs" />
     <Compile Include="IO\Commands\GetHelpCommand.cs" />

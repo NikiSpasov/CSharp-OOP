@@ -11,7 +11,7 @@ public class Box<T>
         this.myVar = anyType;
     }
 
-    public static void Swap<TV>(List<TV> data, int firstIndex, int secondIndex)
+    public static void Swap<T>(List<T> data, int firstIndex, int secondIndex)
     {
         var first = data[firstIndex];
         var second = data[secondIndex];

@@ -1,52 +1,42 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Text;
-
-namespace BashSoft.Contracts.DataStructures
+﻿namespace BashSoft.Contracts.DataStructures
 {
-    public class SimpleSortedList<T> : ISimpleOrderedBag<T> where T :IComparable<T>
+    using System;
+    using System.Collections;
+    using System.Collections.Generic;
+    using System.Text;
+
+    public class SimpleSortedList<T> : ISimpleOrderedBag<T> where T : IComparable<T>
     {
         private const int DefaultSize = 16;
-
         private T[] innerCollection;
         private int size;
         private IComparer<T> comparison;
 
-        private void InitializeInnerCollection(int capacity)
-        {
-            if (capacity < 0)
-            {
-                throw new ArgumentException("Capacity cannot be negative!");
-            }
-            this.innerCollection = new T[capacity];
-        }
-
         public SimpleSortedList(IComparer<T> comparison, int capacity)
         {
             this.comparison = comparison;
-            InitializeInnerCollection(capacity);
+            this.InitializeInnerCollection(capacity);
         }
 
         public SimpleSortedList(int capacity)
             : this(Comparer<T>.Create((x, y) => x.CompareTo(y)), capacity)
         {
-            InitializeInnerCollection(capacity);
         }
 
         public SimpleSortedList(IComparer<T> comparison)
             : this(DefaultSize)
         {
             this.comparison = comparison;
-            InitializeInnerCollection(DefaultSize);
+            this.InitializeInnerCollection(DefaultSize);
         }
 
         public SimpleSortedList()
             :this (Comparer<T>.Create((x, y) => x.CompareTo(y)), DefaultSize)
         {
-            InitializeInnerCollection(DefaultSize);
+            this.InitializeInnerCollection(DefaultSize);
         }
 
+        public int Size => this.size;
 
         public IEnumerator<T> GetEnumerator()
         {
@@ -58,19 +48,19 @@ namespace BashSoft.Contracts.DataStructures
 
         IEnumerator IEnumerable.GetEnumerator()
         {
-            return GetEnumerator();
+            return this.GetEnumerator();
         }
 
         public void Add(T element)
         {
             if (this.innerCollection.Length <= this.size)
             {
-                Resize();
+                this.Resize();
             }
-           this.innerCollection[size] = element;
-            this.size++;
-            Array.Sort(this.innerCollection, 0, size, comparison);
 
+            this.innerCollection[this.size] = element;
+            this.size++;
+            Array.Sort(this.innerCollection, 0, this.size, this.comparison);
         }
 
         public void AddAll(ICollection<T> collection)
@@ -79,17 +69,14 @@ namespace BashSoft.Contracts.DataStructures
             {
                 this.MultiResize(collection);
             }
+
             foreach (var element in collection)
             {
                 this.innerCollection[this.Size] = element;
                 this.size++;
             }
-            Array.Sort(this.innerCollection, 0, this.size, this.comparison);
-        }
 
-        public int Size
-        {
-            get { return this.size; }
+            Array.Sort(this.innerCollection, 0, this.size, this.comparison);
         }
 
         public string JoinWith(string joiner)
@@ -107,8 +94,8 @@ namespace BashSoft.Contracts.DataStructures
         private void Resize()
         {
             T[] newCollection = new T[this.Size * 2];
-            Array.Copy(innerCollection, newCollection, Size);
-            innerCollection = newCollection;
+            Array.Copy(this.innerCollection, newCollection, this.Size);
+            this.innerCollection = newCollection;
         }
 
         private void MultiResize(ICollection<T> collection)
@@ -118,9 +105,20 @@ namespace BashSoft.Contracts.DataStructures
             {
                 newSize *= 2;
             }
+
             T[] newCollection = new T[newSize];
             Array.Copy(this.innerCollection, newCollection, this.size);
             this.innerCollection = newCollection;
+        }
+
+        private void InitializeInnerCollection(int capacity)
+        {
+            if (capacity < 0)
+            {
+                throw new ArgumentException("Capacity cannot be negative!");
+            }
+
+            this.innerCollection = new T[capacity];
         }
     }
 }

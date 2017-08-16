@@ -1,14 +1,24 @@
-﻿using BashSoft.Contracts;
-
-namespace BashSoft.IO.Commands
+﻿namespace BashSoft.IO.Commands
 {
+    using BashSoft.Attributes;
     using Execptions;
 
+    [Alias("help")]
     public class GetHelpCommand : Command
     {
-        public GetHelpCommand(string input, string[] data, IContentComparer judge, IDatabase repository,
-            IDirectoryManager inputOutputManager) : base(input, data, judge, repository, inputOutputManager)
+        public GetHelpCommand(string input, string[] data)
+            : base(input, data)
         {
+        }
+
+        public override void Execute()
+        {
+            if (this.Data.Length != 1)
+            {
+                throw new InvalidCommandException(this.Input);
+            }
+
+            this.DisplayHelp();
         }
 
         private void DisplayHelp()
@@ -25,18 +35,9 @@ namespace BashSoft.IO.Commands
             OutputWriter.WriteMessageOnNewLine(string.Format("|{0, -98}|", "download file - download: path of file (saved in current directory)"));
             OutputWriter.WriteMessageOnNewLine(string.Format("|{0, -98}|", "download file asinchronously - downloadAsynch: path of file (save in the current directory)"));
             OutputWriter.WriteMessageOnNewLine(string.Format("|{0, -98}|", "get help – help"));
+            OutputWriter.WriteMessageOnNewLine(string.Format("|{0, -98}|", "display data entities - display students/courses ascending/descending"));
             OutputWriter.WriteMessageOnNewLine($"{new string('_', 100)}");
             OutputWriter.WriteEmptyLine();
-        }
-
-        public override void Execute()
-        {
-            if (this.Data.Length != 1)
-            {
-                throw new InvalidCommandException(this.Input);
-            }
-
-            this.DisplayHelp();
         }
     }
 }
