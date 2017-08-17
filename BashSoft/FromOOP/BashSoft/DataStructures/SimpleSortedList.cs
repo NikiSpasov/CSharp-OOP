@@ -36,7 +36,47 @@
             this.InitializeInnerCollection(DefaultSize);
         }
 
-        public int Size => this.size;
+        public bool Remove(T element)
+        {
+            if (element == null)
+            {
+                throw new ArgumentNullException();
+            }
+
+            bool hasBeenRemoved = false;
+            int indexOfRemovedElement = 0;
+            for (int i = 0; i < this.Size; i++)
+            {
+                if (this.innerCollection[i].Equals(element))
+                {
+                    indexOfRemovedElement = i;
+                    this.innerCollection[i] = default(T);
+                    hasBeenRemoved = true;
+                    break;
+                }
+            }
+
+            if (hasBeenRemoved)
+            {
+                for (int i = indexOfRemovedElement; i < this.Size - 1 ;i++)
+                {
+                    this.innerCollection[i] = this.innerCollection[i + 1];
+                }
+                List<T> test = new List<T>(this.innerCollection);
+                test.RemoveAt(this.Size - 1);
+                this.innerCollection = test.ToArray();
+                this.Size--;
+            }
+            return hasBeenRemoved;
+        }
+
+        public int Capacity => this.innerCollection.Length;
+
+        public int Size
+        {
+            get => this.size; 
+            private set => this.size = value;
+        }
 
         public IEnumerator<T> GetEnumerator()
         {
@@ -53,6 +93,11 @@
 
         public void Add(T element)
         {
+            if (element == null)
+            {
+                throw new ArgumentNullException();
+            }
+
             if (this.innerCollection.Length <= this.size)
             {
                 this.Resize();
@@ -65,6 +110,11 @@
 
         public void AddAll(ICollection<T> collection)
         {
+            if (collection == null)
+            {
+                throw new ArgumentNullException();
+            }
+
             if (this.Size + collection.Count >= this.innerCollection.Length)
             {
                 this.MultiResize(collection);
@@ -81,13 +131,18 @@
 
         public string JoinWith(string joiner)
         {
-           StringBuilder builder = new StringBuilder();
+            if (joiner == null)
+            {
+                throw new ArgumentNullException();
+            }
+
+            StringBuilder builder = new StringBuilder();
             foreach (var element in this)
             {
                 builder.Append(element);
                 builder.Append(joiner);
             }
-            builder.Remove(builder.Length - 1, 1);
+            builder.Remove(builder.Length - joiner.Length, joiner.Length);
             return builder.ToString();
         }
 

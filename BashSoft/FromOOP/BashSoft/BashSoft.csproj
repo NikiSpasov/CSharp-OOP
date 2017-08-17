@@ -44,7 +44,7 @@
   <ItemGroup>
     <Compile Include="Attributes\AliasAttribute.cs" />
     <Compile Include="Attributes\InjectAttribute.cs" />
-    <Compile Include="Contracts\DataStructures\SimpleSortedList.cs" />
+    <Compile Include="DataStructures\SimpleSortedList.cs" />
     <Compile Include="Contracts\IContentComparer.cs" />
     <Compile Include="Contracts\ICourse.cs" />
     <Compile Include="Contracts\IDatabase\IDatabase.cs" />
