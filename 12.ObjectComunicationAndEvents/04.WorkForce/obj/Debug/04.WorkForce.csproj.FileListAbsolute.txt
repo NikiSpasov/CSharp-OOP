@@ -1,0 +1,6 @@
+D:\MyGit\CSharp-OOP\12.ObjectComunicationAndEvents\04.WorkForce\bin\Debug\04.WorkForce.exe.config
+D:\MyGit\CSharp-OOP\12.ObjectComunicationAndEvents\04.WorkForce\bin\Debug\04.WorkForce.exe
+D:\MyGit\CSharp-OOP\12.ObjectComunicationAndEvents\04.WorkForce\bin\Debug\04.WorkForce.pdb
+D:\MyGit\CSharp-OOP\12.ObjectComunicationAndEvents\04.WorkForce\obj\Debug\04.WorkForce.csprojResolveAssemblyReference.cache
+D:\MyGit\CSharp-OOP\12.ObjectComunicationAndEvents\04.WorkForce\obj\Debug\04.WorkForce.exe
+D:\MyGit\CSharp-OOP\12.ObjectComunicationAndEvents\04.WorkForce\obj\Debug\04.WorkForce.pdb

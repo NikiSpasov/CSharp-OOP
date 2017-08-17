@@ -1,0 +1,6 @@
+D:\MyGit\CSharp-OOP\12.ObjectComunicationAndEvents\02.KingsGambit\bin\Debug\02.KingsGambit.exe.config
+D:\MyGit\CSharp-OOP\12.ObjectComunicationAndEvents\02.KingsGambit\bin\Debug\02.KingsGambit.exe
+D:\MyGit\CSharp-OOP\12.ObjectComunicationAndEvents\02.KingsGambit\bin\Debug\02.KingsGambit.pdb
+D:\MyGit\CSharp-OOP\12.ObjectComunicationAndEvents\02.KingsGambit\obj\Debug\02.KingsGambit.csprojResolveAssemblyReference.cache
+D:\MyGit\CSharp-OOP\12.ObjectComunicationAndEvents\02.KingsGambit\obj\Debug\02.KingsGambit.exe
+D:\MyGit\CSharp-OOP\12.ObjectComunicationAndEvents\02.KingsGambit\obj\Debug\02.KingsGambit.pdb
