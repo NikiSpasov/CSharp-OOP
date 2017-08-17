@@ -1,11 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using BashSoft.Execptions;
-using BashSoft.Models;
-
-namespace BashSoft.Contracts
+﻿namespace BashSoft.Contracts
 {
-    public interface IStudent
+    using System;
+    using System.Collections.Generic;
+
+    public interface IStudent : IComparable<IStudent>
     {
         string Username { get; }
 
@@ -16,6 +14,5 @@ namespace BashSoft.Contracts
         void EnrollInCourse(ICourse course);
 
         void SetMarkOnCourse(string courseName, params int[] scores);
-
     }
 }

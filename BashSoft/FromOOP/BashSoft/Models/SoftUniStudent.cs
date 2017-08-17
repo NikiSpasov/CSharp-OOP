@@ -15,25 +15,38 @@ namespace BashSoft.Models
 
         public string Username
         {
-            get { return this.username; }
+            get
+            {
+                return this.username;
+            }
+
             private set
             {
                 if (string.IsNullOrEmpty(value))
                 {
                     throw new InvalidStringException();
                 }
+
                 this.username = value;
             }
+
         }
 
         public IReadOnlyDictionary<string, ICourse> EnrolledCourses
         {
-            get { return this.enrolledCourses; }
+            get
+            {
+                return this.enrolledCourses;
+            }
         }
 
         public IReadOnlyDictionary<string, double> MarksByCourseName
         {
-            get { return this.marksByCourseName; }
+            get
+            {
+                return this.marksByCourseName;
+            }
+
         }
         public SoftUniStudent(string userName)
         {
@@ -64,8 +77,12 @@ namespace BashSoft.Models
                 throw new ArgumentOutOfRangeException(ExceptionMessages.InvalidNumberOfScores);
             }
 
-            this.marksByCourseName.Add(courseName, CalculateMark(scores));
+            this.marksByCourseName.Add(courseName, this.CalculateMark(scores));
         }
+
+        public override string ToString() => this.Username;
+
+        public int CompareTo(IStudent other) => this.Username.CompareTo(other.Username);
 
         private double CalculateMark(int[] scores)
         {

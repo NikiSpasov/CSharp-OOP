@@ -1,7 +1,8 @@
-﻿using BashSoft.Contracts;
+﻿
 
 namespace BashSoft
 {
+    using BashSoft.Contracts;
     using System;
     using System.IO;
     using Execptions;
@@ -22,16 +23,15 @@ namespace BashSoft
             {
                 OutputWriter.WriteMessageOnNewLine("Reading files...");
 
-                string mismatchesPath = GetMismatchPath(expectedOutputPath);
+                string mismatchesPath = this.GetMismatchPath(expectedOutputPath);
 
                 string[] actualOutputLines = File.ReadAllLines(userOutputPath);
                 string[] expectedOutputLines = File.ReadAllLines(expectedOutputPath);
 
                 bool hasMismatch;
                 string[] mismatches =
-                    GetLinesWithPossibleMismatches(actualOutputLines, expectedOutputLines, out hasMismatch);
-
-                PrintOutput(mismatches, hasMismatch, mismatchesPath);
+                    this.GetLinesWithPossibleMismatches(actualOutputLines, expectedOutputLines, out hasMismatch);
+                this.PrintOutput(mismatches, hasMismatch, mismatchesPath);
                 OutputWriter.WriteMessageOnNewLine("Files read!");
             }
             catch (IOException)

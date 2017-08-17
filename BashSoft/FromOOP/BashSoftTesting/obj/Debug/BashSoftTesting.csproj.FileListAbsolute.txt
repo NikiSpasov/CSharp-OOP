@@ -1,0 +1,15 @@
+C:\Users\Nik\iCloudDrive\C# OOP\BashSoft\FromOOP\BashSoftTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Nik\iCloudDrive\C# OOP\BashSoft\FromOOP\BashSoftTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Nik\iCloudDrive\C# OOP\BashSoft\FromOOP\BashSoftTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Nik\iCloudDrive\C# OOP\BashSoft\FromOOP\BashSoftTesting\bin\Debug\BashSoftTesting.dll
+C:\Users\Nik\iCloudDrive\C# OOP\BashSoft\FromOOP\BashSoftTesting\bin\Debug\BashSoftTesting.pdb
+C:\Users\Nik\iCloudDrive\C# OOP\BashSoft\FromOOP\BashSoftTesting\bin\Debug\BashSoft.exe
+C:\Users\Nik\iCloudDrive\C# OOP\BashSoft\FromOOP\BashSoftTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Nik\iCloudDrive\C# OOP\BashSoft\FromOOP\BashSoftTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Nik\iCloudDrive\C# OOP\BashSoft\FromOOP\BashSoftTesting\bin\Debug\BashSoft.pdb
+C:\Users\Nik\iCloudDrive\C# OOP\BashSoft\FromOOP\BashSoftTesting\bin\Debug\BashSoft.exe.config
+C:\Users\Nik\iCloudDrive\C# OOP\BashSoft\FromOOP\BashSoftTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Nik\iCloudDrive\C# OOP\BashSoft\FromOOP\BashSoftTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Nik\iCloudDrive\C# OOP\BashSoft\FromOOP\BashSoftTesting\obj\Debug\BashSoftTesting.csprojResolveAssemblyReference.cache
+C:\Users\Nik\iCloudDrive\C# OOP\BashSoft\FromOOP\BashSoftTesting\obj\Debug\BashSoftTesting.dll
+C:\Users\Nik\iCloudDrive\C# OOP\BashSoft\FromOOP\BashSoftTesting\obj\Debug\BashSoftTesting.pdb

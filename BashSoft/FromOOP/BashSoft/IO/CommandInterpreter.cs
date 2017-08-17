@@ -1,10 +1,11 @@
-﻿using BashSoft.Contracts;
-
-namespace BashSoft
+﻿namespace BashSoft
 {
     using System;
-    using Execptions;
+    using System.Linq;
+    using System.Reflection;
+    using BashSoft.Attributes;
     using IO.Commands;
+    using Contracts;
 
     public class CommandInterpreter : IInterpreter
     {
@@ -37,41 +38,40 @@ namespace BashSoft
 
         private IExecutable ParseCommand(string input, string command, string[] data)
         {
-            switch (command)
+            object[] parametersForConstructor = new object[]
             {
-                case "open":
-                    return new OpenFileCommand(input, data, this.judge, this.repository, this.inputOutputManager);
-                case "mkdir":
-                    return new MakeDirectoryCommand(input, data, this.judge, this.repository, this.inputOutputManager);
-                case "ls":
-                    return new TraverseFoldersCommand(input, data, this.judge, this.repository, this.inputOutputManager);
-                case "cmp":
-                    return new CompareFilesCommand(input, data, this.judge, this.repository, this.inputOutputManager);
-                case "cdRel":
-                    return new ChangePathRelativelyCommand(input, data, this.judge, this.repository, this.inputOutputManager);
-                case "cdAbs":
-                    return new ChangePathAbsoluteCommand(input, data, this.judge, this.repository, this.inputOutputManager);
-                case "readDb":
-                    return new ReadDatabaseFromFileCommand(input, data, this.judge, this.repository, this.inputOutputManager);
-                case "help":
-                    return new GetHelpCommand(input, data, this.judge, this.repository, this.inputOutputManager);
-                case "filter":
-                    return new FilterAndTakeCommand(input, data, this.judge, this.repository, this.inputOutputManager);
-                case "order":
-                    return new OrderAndTakeCommand(input, data, this.judge, this.repository, this.inputOutputManager);
-                case "dropdb":
-                    return new DropDbCommand(input, data, this.judge, this.repository, this.inputOutputManager);
-                case "show":
-                    return new ShowWantedDataCommand(input, data, this.judge, this.repository, this.inputOutputManager);
-                //case "decOrder":
-                //    break;
-                //case "download":
-                //    break;
-                //case "downloadAsynch":
-                //    break;
-                default:
-                    throw new InvalidCommandException(input);
+                input, data
+            };
+            Type typeOfCommand =
+                Assembly.GetExecutingAssembly()
+                    .GetTypes()
+                    .First(type => type.GetCustomAttributes(typeof(AliasAttribute))
+                                       .Where(atr => atr.Equals(command))
+                                       .ToArray().Length > 0);
+            Type typeOfInterpreter = typeof(CommandInterpreter);
+
+            Command exe = (Command) Activator.CreateInstance(typeOfCommand, parametersForConstructor);
+
+            FieldInfo[] fieldsOfCommand = typeOfCommand
+                .GetFields(BindingFlags.NonPublic | BindingFlags.Instance);
+
+            FieldInfo[] fieldsOfInterpreter = typeOfInterpreter
+                .GetFields(BindingFlags.Instance | BindingFlags.NonPublic);
+
+            foreach (var fieldOfCommand in fieldsOfCommand)
+            {
+                Attribute atrAttribute = fieldOfCommand.GetCustomAttribute(typeof(InjectAttribute));
+                if (atrAttribute != null)
+                {
+                    if (fieldsOfInterpreter.Any(x => x.FieldType == fieldOfCommand.FieldType))
+                    {
+                        fieldOfCommand.SetValue(exe, 
+                            fieldsOfInterpreter.First(x => x.FieldType == fieldOfCommand.FieldType)
+                            .GetValue(this));
+                    }
+                }
             }
+            return exe;
         }        
     }
 }
