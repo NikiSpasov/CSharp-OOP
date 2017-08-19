@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02BlackBoxInteger", "02Blac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03BarracksFactory", "03BarracksFactory\03BarracksFactory.csproj", "{6B9565B7-DD7A-43D0-9F1F-F5DFB1EC09F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionTutorial", "ReflectionTutorial\ReflectionTutorial.csproj", "{122AD15E-A903-4621-9D85-8EEE1564CF5E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{6B9565B7-DD7A-43D0-9F1F-F5DFB1EC09F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B9565B7-DD7A-43D0-9F1F-F5DFB1EC09F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B9565B7-DD7A-43D0-9F1F-F5DFB1EC09F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{122AD15E-A903-4621-9D85-8EEE1564CF5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{122AD15E-A903-4621-9D85-8EEE1564CF5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{122AD15E-A903-4621-9D85-8EEE1564CF5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{122AD15E-A903-4621-9D85-8EEE1564CF5E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

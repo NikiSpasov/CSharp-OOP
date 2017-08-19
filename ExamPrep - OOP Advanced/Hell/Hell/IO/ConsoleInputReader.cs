@@ -1,6 +1,6 @@
 ﻿using System;
 
-public class ConsoleReader
+public class ConsoleInputReader : IInputReader
 {
     public string ReadLine()
     {

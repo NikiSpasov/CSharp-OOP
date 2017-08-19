@@ -2,11 +2,11 @@
 {
     public static void Main()
     {
-        IInputReader reader = new ConsoleReader();
-        IOutputWriter writer = new ConsoleWriter();
+        IInputReader inputReader = new ConsoleInputReader();
+        IOutputWriter outputWriter = new ConsoleOutputWriter();
         HeroManager manager = new HeroManager();
 
-        Engine engine = new Engine(reader, writer, manager);
+        Engine engine = new Engine(inputReader, outputWriter, manager);
         engine.Run();
     }
 }

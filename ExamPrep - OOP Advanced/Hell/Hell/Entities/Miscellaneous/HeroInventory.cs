@@ -76,7 +76,7 @@ public class HeroInventory : IInventory
     {
         for (int i = 0; i < recipe.RequiredItems.Count; i++)
         {
-            string item = recipe.RequiredItems[i];
+            string item = recipe.RequiredItems[i];//?
             this.commonItems.Remove(item);
         }
 

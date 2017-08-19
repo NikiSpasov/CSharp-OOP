@@ -1,7 +1,8 @@
 ﻿using System;
 
-public class ConsoleWriter
+public class ConsoleOutputWriter : IOutputWriter
 {
+
     public void WriteLine(string line)
     {
         Console.WriteLine(line);
@@ -11,4 +12,5 @@ public class ConsoleWriter
     {
         Console.WriteLine(string.Format(format, args));
     }
+
 }

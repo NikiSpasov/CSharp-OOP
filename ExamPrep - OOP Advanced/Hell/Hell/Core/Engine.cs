@@ -4,14 +4,14 @@ using System.Linq;
 
 public class Engine
 {
-    private InputReader reader;
-    private OutputWriter writer;
+    private IInputReader inputReader;
+    private IOutputWriter outputWriter;
     private HeroManager heroManager;
 
-    public Engine(InputReader reader, OutputWriter writer, HeroManager heroManager)
+    public Engine(IInputReader inputReader, IOutputWriter outputWriter, HeroManager heroManager)
     {
-        this.reader = reader;
-        this.writer = writer;
+        this.inputReader = inputReader;
+        this.outputWriter = outputWriter;
         this.heroManager = heroManager;
     }
 
@@ -21,31 +21,32 @@ public class Engine
 
         while (isRunning)
         {
-            string inputLine = this.reader.ReadLine();
-            List<string> arguments = this.parseInput(inputLine);
-            this.writer.WriteLine(this.processInput(arguments));
+            string inputLine = this.inputReader.ReadLine();
+            List<string> arguments = this.ParseInput(inputLine);
+            this.outputWriter.WriteLine(this.ProcessInput(arguments));
             isRunning = !this.ShouldEnd(inputLine);
         }
     }
 
-    private static List<string> parseInput(string input)
+    private List<string> ParseInput(string input)
     {
-        return input.Split(' ').ToList();
+        return input.Split(new []{' '}, StringSplitOptions.RemoveEmptyEntries).ToList();
     }
 
-    private static string processInput(List<string> arguments)
+    private string ProcessInput(List<string> arguments)
     {
         string command = arguments[0];
         arguments.RemoveAt(0);
 
         Type commandType = Type.GetType(command + "Command");
         var constructor = commandType.GetConstructor(new Type[] { typeof(IList<string>), typeof(IManager) });
-        Command cmd = (Command)constructor.Invoke(new object[] { arguments, this.heroManager });
+        ICommand cmd = (ICommand)constructor.Invoke(new object[] { arguments, this.heroManager });
         return cmd.Execute();
     }
 
-    private static bool ShouldEnd(string inputLine)
+    private bool ShouldEnd(string inputLine)
     {
         return inputLine.Equals("Quit");
     }
 }
+

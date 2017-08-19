@@ -1,0 +1,6 @@
+C:\Users\Nik\iCloudDrive\C# OOP\09.Reflection\ReflectionTutorial\bin\Debug\ReflectionTutorial.exe.config
+C:\Users\Nik\iCloudDrive\C# OOP\09.Reflection\ReflectionTutorial\bin\Debug\ReflectionTutorial.exe
+C:\Users\Nik\iCloudDrive\C# OOP\09.Reflection\ReflectionTutorial\bin\Debug\ReflectionTutorial.pdb
+C:\Users\Nik\iCloudDrive\C# OOP\09.Reflection\ReflectionTutorial\obj\Debug\ReflectionTutorial.csprojResolveAssemblyReference.cache
+C:\Users\Nik\iCloudDrive\C# OOP\09.Reflection\ReflectionTutorial\obj\Debug\ReflectionTutorial.exe
+C:\Users\Nik\iCloudDrive\C# OOP\09.Reflection\ReflectionTutorial\obj\Debug\ReflectionTutorial.pdb

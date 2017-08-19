@@ -4,7 +4,7 @@ using System.Linq;
 using System.Reflection;
 using System.Text;
 
-public class AbstractHero : IHero, IComparable<AbstractHero>
+public abstract class AbstractHero : IHero, IComparable<AbstractHero>
 {
     private IInventory inventory;
     private long strength;
@@ -13,7 +13,8 @@ public class AbstractHero : IHero, IComparable<AbstractHero>
     private long hitPoints;
     private long damage;
 
-    protected AbstractHero(string name, int strength, int agility, int intelligence, int hitPoints, int damage)
+    protected AbstractHero(string name, int strength, int agility,
+        int intelligence, int hitPoints, int damage)
     {
         this.Name = name;
         this.strength = strength;
@@ -25,6 +26,8 @@ public class AbstractHero : IHero, IComparable<AbstractHero>
     }
 
     public string Name { get; private set; }
+
+    public IInventory Inventory { get; }
 
     public long Strength
     {
@@ -63,17 +66,34 @@ public class AbstractHero : IHero, IComparable<AbstractHero>
 
     public long SecondaryStats
     {
-        get { return this.Strength + this.Agility + this.Intelligence; }
+        get { return this.HitPoints + this.Damage + this.Intelligence; }
     }
 
     //REFLECTION
-    public ICollection<IItem> Items { get; }
+    public ICollection<IItem> Items
+    {
+        get
+        {
+            Type clazz = typeof(HeroInventory);
+            var field = clazz.GetFields(BindingFlags.Instance | BindingFlags.NonPublic)
+                       .FirstOrDefault(f => f.GetCustomAttributes(typeof(ItemAttribute)) != null);
+            
+            var collection = (Dictionary<string, IItem>)field.GetValue(this.inventory);
 
-    public void AddRecipe(Recipe recipe)
+            return collection.Values.ToList();
+        }
+    }
+
+    public void AddItem(IItem item)
+    {
+        this.inventory.AddCommonItem(item);
+    }
+
+    public void AddRecipe(IRecipe recipe)
     {
         this.inventory.AddRecipeItem(recipe);
     }
-    
+
     public int CompareTo(AbstractHero other)
     {
         if (ReferenceEquals(this, other))
@@ -90,5 +110,30 @@ public class AbstractHero : IHero, IComparable<AbstractHero>
             return primary;
         }
         return this.SecondaryStats.CompareTo(other.SecondaryStats);
+    }
+
+    public override string ToString()
+    {
+        StringBuilder sb = new StringBuilder();
+
+        sb.AppendLine($"Hero: {this.Name}, Class: {this.GetType().Name}");
+        sb.AppendLine($"HitPoints: {this.HitPoints}, Damage: {this.Damage}");
+        sb.AppendLine($"Strength: {this.Strength}");
+        sb.AppendLine($"Agility: {this.Agility}");
+        sb.AppendLine($"Intelligence: {this.Intelligence}");
+
+        if (this.Items.Count == 0)
+        {
+            sb.AppendLine("Items: None");
+        }
+        else
+        {
+            sb.AppendLine($"Items:");
+            foreach (var item in this.Items)
+            {
+                sb.AppendLine(item.ToString());
+            }
+        }    
+        return sb.ToString().Trim();
     }
 }
