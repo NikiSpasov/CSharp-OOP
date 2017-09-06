@@ -1,0 +1,11 @@
+﻿public class Knife : Ammunition
+{
+    public const double constWeight = 0.4;
+
+    public Knife(string name)
+        : base(name)
+    {
+        this.Weight = constWeight;
+
+    }
+}

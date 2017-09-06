@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PawInc", "..\ExamPrepOOPBasic\PawInc\PawInc.csproj", "{D802E6D7-82EE-4B5F-B739-17DFB88BD34C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemSplit", "..\ExamPrepOOPBasic\SystemSplit\SystemSplit.csproj", "{CCF70F33-8905-404D-8EA9-D75AB84A67AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D802E6D7-82EE-4B5F-B739-17DFB88BD34C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D802E6D7-82EE-4B5F-B739-17DFB88BD34C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D802E6D7-82EE-4B5F-B739-17DFB88BD34C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D802E6D7-82EE-4B5F-B739-17DFB88BD34C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCF70F33-8905-404D-8EA9-D75AB84A67AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF70F33-8905-404D-8EA9-D75AB84A67AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF70F33-8905-404D-8EA9-D75AB84A67AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF70F33-8905-404D-8EA9-D75AB84A67AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

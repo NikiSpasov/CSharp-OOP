@@ -7,6 +7,8 @@ using System.Reflection;
 using NUnit.Framework;
 
 [TestFixture]
+v 
+      
 public class HeroInventoryTests
 {
     private HeroInventory sut;
